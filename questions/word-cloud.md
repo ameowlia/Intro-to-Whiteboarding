@@ -12,7 +12,7 @@ What do we want to do with "After", "Dana", and "add"? In this example, your fin
 
 Assume the input will only contain words and standard punctuation.
 
-Hints can be found at the original source:[Word Cloud](https://www.interviewcake.com/question/word-cloud).
+Hints can be found at the original source: [Word Cloud](https://www.interviewcake.com/question/word-cloud).
 
 ##########################
 Solutions Below This Line
