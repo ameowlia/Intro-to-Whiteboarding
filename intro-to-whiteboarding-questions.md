@@ -4,4 +4,4 @@
 - [Word Cloud](https://www.interviewcake.com/question/word-cloud)
 - [Making Change](https://www.interviewcake.com/question/coin)
 
-Link to solutions coming soon. If you have solutions, create add a link here and submit a pull request.
+Link to solutions coming soon. If you have solutions, add a link here and submit a pull request.
