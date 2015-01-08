@@ -18,7 +18,9 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 ## General Curriculum
 
-**Week 1:** Intro to Whiteboarding
+Click each title to see a list of previous questions and answers. [Click here to see a list of all ppts.](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+
+[**Week 1:** Intro to Whiteboarding](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/intro-to-whiteboarding-questions.md)
 
 **Week 2:** Stacks and Queues
 
@@ -29,6 +31,7 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 **Week 5:** Linked Lists
 
 **Week 6:** Trees
+
 
 ## Schedule
 
@@ -50,6 +53,8 @@ Date | Topic | Alum Lead
 ## Contact Info
 
 Amelia Downs: downs.amelia@gmail.com
+
+
 
 [Give us feedback!](https://www.surveymonkey.com/s/QCKHQKZ)
 
