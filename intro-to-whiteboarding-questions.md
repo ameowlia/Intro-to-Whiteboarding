@@ -1,6 +1,6 @@
-## Questions
+# Questions
 
-#Post solutions on a branch of the individual question page, DBC style: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.#
+Post solutions on a branch of the individual question page, DBC style: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.#
 
 **Jan 7th**
 
