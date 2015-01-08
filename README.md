@@ -49,7 +49,7 @@ Date | Topic | Alum Lead
 
 ## How You Can Contribute
 
-- Share your solutions on the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md) page so we can learn collectively! Do this the DBC way: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.
+- Share your solutions on the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/intro-to-whiteboarding-questions.md) page so we can learn collectively! Do this the DBC way: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.
 
 
 ## Contact Info
