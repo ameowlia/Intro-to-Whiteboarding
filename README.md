@@ -18,7 +18,7 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 ## General Curriculum
 
-Click each title to see a list of previous questions and answers. [Click here to see a list of all ppts.](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+Click each title to see a list of previous questions and answers. [Click here to see a list of all powerpoints.](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
 
 [**Week 1:** Intro to Whiteboarding](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/intro-to-whiteboarding-questions.md)
 
