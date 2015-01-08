@@ -7,7 +7,7 @@ Use a language where strings are mutable, like Ruby. In some languages, like Pyt
 
 If you're not comfortable coding in a language with mutable strings, reverse an array of characters instead.
 
-Hints can be found at the original source:[Reverse a string](https://www.interviewcake.com/question/reverse-string-in-place).
+Hints can be found at the original source: [Reverse a string](https://www.interviewcake.com/question/reverse-string-in-place).
 
 ##########################
 Solutions Below This Line
