@@ -1,5 +1,5 @@
 # Intro to Algorithms and Whiteboarding
-#### (Almost) every Wednesday at 6:30 at DBC SF
+#### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
 
 ## What is it?
 
@@ -49,11 +49,13 @@ Date | Topic | Alum Lead
 
 ## How You Can Contribute
 
+- Share your solutions on the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md) page so we can learn collectively! Do this the DBC way: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.
+
 
 ## Contact Info
 
 Amelia Downs: downs.amelia@gmail.com
-
+Lauren Kroner: lauren.kroner@gmail.com
 
 
 [Give us feedback!](https://www.surveymonkey.com/s/QCKHQKZ)
