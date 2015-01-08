@@ -1,7 +1,11 @@
-##Jan 7th
+## Questions
 
-- [Reverse a string](https://www.interviewcake.com/question/reverse-string-in-place)
-- [Word Cloud](https://www.interviewcake.com/question/word-cloud)
-- [Making Change](https://www.interviewcake.com/question/coin)
+#Post solutions on a branch of the individual question page, DBC style: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.#
 
-Link to solutions coming soon. If you have solutions, add a link here and submit a pull request.
+**Jan 7th**
+
+- [Reverse a string](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/reverse-a-string.md)
+- [Word Cloud](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/word-cloud.md)
+- [Making Change](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/making-change.md)
+
+
