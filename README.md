@@ -51,7 +51,9 @@ Date | Topic | Alum Lead
 
 ## How You Can Contribute
 
-- Share your solutions on the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/intro-to-whiteboarding-questions.md) page so we can learn collectively! Do this the DBC way: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.
+- Add your solutions to the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
+- [Give us feedback](https://www.surveymonkey.com/s/QCKHQKZ)
+- [Join the G+ Community!](https://plus.google.com/u/0/communities/114320193647581293833)
 
 
 ## Contact Info
