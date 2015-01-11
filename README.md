@@ -37,7 +37,7 @@ Date | Topic | Alum Lead
  --- | --- | ---
  Jan 7 | Intro to Whiteboarding | Danielle
  Jan 14 | Stacks and Queues | Amelia
- Jan 21 | Recursion | -
+ Jan 21 | Recursion | Patrick
  Jan 28 | Big O | -
  Feb 4 | Linked Lists | - 
  
