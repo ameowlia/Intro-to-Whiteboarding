@@ -58,8 +58,10 @@ Date | Topic | Alum Lead
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com
-Lauren Kroner: lauren.kroner@gmail.com
+Amelia Downs: downs.amelia@gmail.com  
+Lauren Kroner: lauren.kroner@gmail.com  
+Patrick Reynolds: patrickscottreynolds@gmail.com  
+
 
 
 [Give us feedback!](https://www.surveymonkey.com/s/QCKHQKZ)
