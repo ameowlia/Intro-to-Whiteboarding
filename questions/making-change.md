@@ -17,9 +17,7 @@ Example: for amount=4 (4¢) and denominations=[1,2,3] (1¢, 2¢ and 3¢), your p
 2¢, 2¢
 
 Hints can be found at the original source: [Making Change](https://www.interviewcake.com/question/coin).
+This problem is from Interview Cake.
 
-##########################
-Solutions Below This Line
-##########################
-
-Place solutions on your own branch. Do not push origin master.
+###Solutions
+[Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/making-change-amelia.rb)
