@@ -44,9 +44,12 @@ Date | Topic | Alum Lead
  
 ## Resources
 
-### Internal Resources
+### Internal
 - [All Powerpoints](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
 - [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
+
+### External
+- [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 
 ## How You Can Contribute
