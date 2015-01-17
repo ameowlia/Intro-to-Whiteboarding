@@ -1,19 +1,21 @@
-Implement a Queue class using two stacks.
+#Create Queue with Two Stacks
 
-You may assume you have a stack class with the four methods listed below.
+Implement a Queue class using two stacks. You may assume you have a stack class with the four methods listed below.
 
-##Queue and Stack Cheat Sheet 
-Queue: First in, first out
-first
-last
-enqueue (add)
-dequeue (remove)
-is_empty?
+### Stack and Queue Cheat Sheet
 
-Stack: Last in, first out
-peek
-pop (remove)
-push (add)
-is_empty?
+**Queue: First in, first out**
+- first
+- last
+- enqueue(item) #add
+- dequeue #remove
+- is_empty?
+
+**Stack: Last in, first out**
+- peek
+- pop #remove
+- push(item) #add
+- is_empty?
 
 ###Solutions
+[Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-amelia.rb)
