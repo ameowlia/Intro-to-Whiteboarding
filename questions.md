@@ -5,7 +5,13 @@
 - submit a pull request
 
 ## Past Questions
-**Jan 7th**
+**Jan 14th: Stacks and Queues**
+- [Write queue class](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class.md)
+- [Create queue with two stacks](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class-two-stacks.md)
+- [Matching Parentheses](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/matching-parens.md)
+
+
+**Jan 7th: Intro to Algorithms**
 
 - [Reverse a string](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/reverse-a-string.md)
 - [Word Cloud](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/word-cloud.md)
