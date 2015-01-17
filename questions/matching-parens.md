@@ -25,4 +25,5 @@ has_matching_parens(str) #=> true
 
 ###Solutions
 [Amelia's Basic Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/matching-parens-amelia.rb)
+
 [Amelia's Bonus Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/matching-parens-bonus-amelia.rb)
