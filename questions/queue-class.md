@@ -1,18 +1,21 @@
-Implement a Queue class. You must write all five methods listed below. 
+#Write a Queue Class
 
-## Stack and Queue Cheat Sheet
+Implement a queue class. You must write all five methods listed below. 
 
-Queue: First in, first out
-first
-last
-enqueue(item) #add
-dequeue #remove
-is_empty?
+### Stack and Queue Cheat Sheet
 
-Stack: Last in, first out
-peek
-pop #remove
-push(item) #add
-is_empty?
+**Queue: First in, first out**
+- first
+- last
+- enqueue(item) #add
+- dequeue #remove
+- is_empty?
+
+**Stack: Last in, first out**
+- peek
+- pop #remove
+- push(item) #add
+- is_empty?
 
 ### Solutions
+[Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-class-amelia.rb)
