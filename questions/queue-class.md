@@ -19,3 +19,5 @@ Implement a queue class. You must write all five methods listed below.
 
 ### Solutions
 [Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-class-amelia.rb)
+
+[Osman's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-class-osman.rb)
