@@ -1,5 +1,7 @@
 #Matching Parentheses
 
+**THIS IS A VERY COMMON INTERVIEW QUESTION**
+
 Write the function #has_matching_parens that takes a string as an argument and returns true if the string has valid parenthesis. 
 
 ex.  
@@ -8,7 +10,6 @@ has_matching_parens(str) #=> true
 
 **Bonus:** How would you solve if there were [], (), and {}?
 
-**Note**: This is a very common interview question.
 
 ### Stack and Queue Cheat Sheet
 
