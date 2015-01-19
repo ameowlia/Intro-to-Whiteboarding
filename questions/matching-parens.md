@@ -8,6 +8,8 @@ has_matching_parens(str) #=> true
 
 **Bonus:** How would you solve if there were [], (), and {}?
 
+**Note**: This is a very common interview question.
+
 ### Stack and Queue Cheat Sheet
 
 **Queue: First in, first out**
