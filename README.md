@@ -51,6 +51,10 @@ Date | Topic | Alum Lead
 ### External
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+# Chapters on Recursion from Stanford Professor Eric Roberts
+- http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf
+- http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf
+
 
 ## How You Can Contribute
 
