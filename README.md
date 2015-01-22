@@ -15,22 +15,6 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 **7:45-8:00:** Everyone gathers back together as a large group and discusses the questions. 
 
-
-## General Curriculum
-
-**Week 1:** Intro to Whiteboarding
-
-**Week 2:** Stacks and Queues
-
-**Week 3:** Recursion 
-
-**Week 4:** Big O
-
-**Week 5:** Linked Lists
-
-**Week 6:** Trees
-
-
 ## Schedule
 
 Date | Topic | Alum Lead
@@ -38,22 +22,23 @@ Date | Topic | Alum Lead
  Jan 7 | Intro to Whiteboarding | Danielle
  Jan 14 | Stacks and Queues | Amelia
  Jan 21 | Recursion | Patrick
- Jan 28 | Big O | -
+ Jan 28 | Big O | John
  Feb 4 | Linked Lists | - 
+ Feb 11 | Trees | Amelia
+ Feb 18 | - | - 
+ 
  
  
 ## Resources
 
-### Internal
+**Internal**
 - [All Powerpoints](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
 - [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
 
-### External
+**External**
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
-
-# Chapters on Recursion from Stanford Professor Eric Roberts
-- http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf
-- http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf
+- [Intro to Recursion](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf)
+- [Intro to Recursion cont.](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf)
 
 
 ## How You Can Contribute
