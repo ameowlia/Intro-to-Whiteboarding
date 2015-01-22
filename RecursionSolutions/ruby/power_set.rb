@@ -8,3 +8,12 @@ def powerSet(set)
 end
 
 p powerSet(['a', 'b', 'c', 'd'])
+
+#solution without the confusing |
+
+def powerSet(array)
+  return [[]] if array.empty?
+  set = powerset(array[1..-1])
+  set.map{|i| [array.first] + i} + set
+end
+p powerSet(['a', 'b', 'c', 'd'])
