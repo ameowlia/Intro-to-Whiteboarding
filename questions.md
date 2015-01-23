@@ -5,6 +5,12 @@
 - submit a pull request
 
 ## Past Questions
+**Jan 21th: Recursion**
+- [Factorial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/factorial.md)
+- [Hower of Hanoi](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tower-of-hanoi.md)
+- [Power Set](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/power-set.md)
+
+## Past Questions
 **Jan 14th: Stacks and Queues**
 - [Write queue class](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class.md)
 - [Create queue with two stacks](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class-two-stacks.md)
