@@ -8,4 +8,4 @@ def hanoi(disc, start, helper, destination)
     end
 end
  
-hanoi(5, 'start', 'helper', 'end')
+hanoi(3, 'start', 'helper', 'end')

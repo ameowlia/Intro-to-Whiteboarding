@@ -9,4 +9,3 @@ function hanoi(disc, start, helper, destination) {
 }
  
 hanoi(5, 'start', 'helper', 'end')
-
