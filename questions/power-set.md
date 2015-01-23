@@ -1,10 +1,3 @@
-Write a program that generates the power set from a set of numbers.
-
-Example:
-powerSet([‘a’, ‘b’, ‘c’]) 
-Solution: [[], ["a"], ["b"], ["a", "b"], ["c"], ["a", "c"], ["b", "c"], ["a", "b", "c"]]
-
-
 Power Set
 ===
 
