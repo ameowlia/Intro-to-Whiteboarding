@@ -5,7 +5,7 @@
 - submit a pull request
 
 ## Past Questions
-**Jan 21th: Recursion**
+**Jan 21st: Recursion**
 
 - [Factorial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/factorial.md)
 - [Hower of Hanoi](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tower-of-hanoi.md)
