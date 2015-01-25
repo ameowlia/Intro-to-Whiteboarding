@@ -1,4 +1,4 @@
-# Powerpoint Links
+# Presentation Links
 
 Not all of them have links yet, because they have not all been made yet. Patience young padawan. 
 
@@ -9,7 +9,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 
 [**Week 3:** Recursion](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0) 
 
-[**Week 4:** Big O](https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing)
+[**Week 4:** Big O](https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing), [video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
 
 **Week 5:** Linked Lists
 
