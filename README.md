@@ -32,7 +32,7 @@ Date | Topic | Alum Lead
 ## Resources
 
 **Internal**
-- [All Powerpoints](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+- [All Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
 - [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
 
 **External**
