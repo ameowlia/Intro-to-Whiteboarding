@@ -12,5 +12,5 @@ Additional Info:
 [Tower of Hanoi Visualization](http://en.wikipedia.org/wiki/Tower_of_Hanoi#mediaviewer/File:Tower_of_Hanoi_4.gif)
 
 ### Solutions
-[Patrick's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/RecursionSolutions/ruby/towers_of_hanoi.rb)  
-[Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/RecursionSolutions/js/towers_of_hanoi.js)
+[Patrick's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/ruby/towers_of_hanoi.rb)  
+[Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/js/towers_of_hanoi.js)
