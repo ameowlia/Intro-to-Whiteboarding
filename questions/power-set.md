@@ -11,4 +11,5 @@ Solution: [[], ["a"], ["b"], ["a", "b"], ["c"], ["a", "c"], ["b", "c"], ["a", "b
 ### Solutions
 [Patrick's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/ruby/power_set.rb)  
 [Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/js/powerSet.js)
+
 [Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/power-set-amelia.rb)
