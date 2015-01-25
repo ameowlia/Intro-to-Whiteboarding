@@ -9,5 +9,5 @@ factorial(4)
 Solution: 4 * 3 * 2 * 1 = 24
 
 ### Solutions
-[Patrick's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/RecursionSolutions/ruby/factorial.rb)  
-[Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/RecursionSolutions/js/factorial.js)
+[Patrick's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/ruby/factorial.rb)  
+[Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/js/factorial.js)
