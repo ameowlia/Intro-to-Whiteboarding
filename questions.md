@@ -8,7 +8,7 @@
 **Jan 21st: Recursion**
 
 - [Factorial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/factorial.md)
-- [Hower of Hanoi](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tower-of-hanoi.md)
+- [Tower of Hanoi](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tower-of-hanoi.md)
 - [Power Set](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/power-set.md)
 
 **Jan 14th: Stacks and Queues**
