@@ -7,11 +7,7 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 **6:30-7:00:** Thunder talk on an algorithms topic.
 
-**7:00-7:15:** Split up into groups of three. The first problem of the night is displayed. One person solves the question acting as the interviewee and the other two group members act as interviewers.
-
-**7:15-7:30:** Next problem is displayed. Group members switch who is interviewer and interviewee.
-
-**7:30-7:45:** Third and final problem is displayed. Group members switch who is interviewer and interviewee.
+**7:00-7:45:** Split up into groups of three. A new problem is displayed every 15 minutes. Each group member solves one problem while the other two group members act as interviewers.
 
 **7:45-8:00:** Everyone gathers back together as a large group and discusses the questions. 
 
