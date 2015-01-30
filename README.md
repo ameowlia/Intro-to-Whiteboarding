@@ -49,7 +49,7 @@ Date | Topic | Alum Lead
 Amelia Downs: downs.amelia@gmail.com  
 Lauren Kroner: lauren.kroner@gmail.com  
 Patrick Reynolds: patrickscottreynolds@gmail.com  
-
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
