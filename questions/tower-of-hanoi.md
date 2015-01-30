@@ -13,4 +13,6 @@ Additional Info:
 
 ### Solutions
 [Patrick's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/ruby/towers_of_hanoi.rb)  
-[Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/js/towers_of_hanoi.js)
+[Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/js/towers_of_hanoi.js) 
+
+[Amelia's Non-recursive Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/tower-hanoi-amelia.rb)
