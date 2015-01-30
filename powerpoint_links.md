@@ -9,7 +9,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 
 [**Week 3:** Recursion](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0), [video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
 
-[**Week 4:** Big O](https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing)
+**Week 4:** Big O <a href="https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing">Amelia's</a>  | <a href="https://www.dropbox.com/s/in7y5y4u0v0tjym/john_big_o.pptx?dl=0">John's</a>
 
 **Week 5:** Linked Lists
 
