@@ -44,7 +44,7 @@ Date | Topic | Alum Lead
 ## How You Can Contribute
 
 - Add your solutions to the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
-- [Give us feedback](https://www.surveymonkey.com/s/QCKHQKZ)
+- [Give us feedback](https://socrates.devbootcamp.com/feedback/forms)
 - [Join the G+ Community!](https://plus.google.com/u/0/communities/114320193647581293833)
 
 
@@ -56,6 +56,6 @@ Patrick Reynolds: patrickscottreynolds@gmail.com
 
 
 
-[Give us feedback!](https://www.surveymonkey.com/s/QCKHQKZ)
+[Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
 
 [Join the G+ Community!](https://plus.google.com/u/0/communities/114320193647581293833)
