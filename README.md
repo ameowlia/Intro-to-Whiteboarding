@@ -47,7 +47,7 @@ Date | Topic | Alum Lead
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
 Lauren Kroner: lauren.kroner@gmail.com  
 Patrick Reynolds: patrickscottreynolds@gmail.com  
 John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
