@@ -35,6 +35,7 @@ Date | Topic | Alum Lead
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Intro to Recursion](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf)
 - [Intro to Recursion cont.](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf)
+- [Interview Cake](https://www.interviewcake.com/)
 
 
 ## How You Can Contribute
@@ -46,7 +47,7 @@ Date | Topic | Alum Lead
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
 Lauren Kroner: lauren.kroner@gmail.com  
 Patrick Reynolds: patrickscottreynolds@gmail.com  
 John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
