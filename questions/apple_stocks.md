@@ -12,6 +12,9 @@ Determine the greatest profit you could have made yesterday.
 
 Note that you can't just find the max and min of the array and subtract them becasue you cannot sell stock until you buy it. 
 
-**This problem is from [Interview Cake](https://www.interviewcake.com/question/stock-price)**
+What is the time and space complexity of your solution?
+
+**This problem is from [Interview Cake](https://www.interviewcake.com/)**
 
 ###Solutions
+[Amelia's Solution, Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/apple_stock_amelia.rb)
