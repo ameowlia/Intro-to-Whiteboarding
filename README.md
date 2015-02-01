@@ -19,7 +19,7 @@ Date | Topic | Alum Lead
  Jan 14 | Stacks and Queues | Amelia
  Jan 21 | Recursion | Patrick
  Jan 28 | Big O | John
- Feb 4 | Linked Lists | - 
+ Feb 4 | Linked Lists | John 
  Feb 11 | Trees | Amelia
  Feb 18 | - | - 
  
