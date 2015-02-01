@@ -6,3 +6,4 @@ Analyze the pseudocode below and determine the time and space complexity.
 
 
 ###Solutions
+[Amelia's Explanation](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/cocktail_sort_solution_amelia.md)
