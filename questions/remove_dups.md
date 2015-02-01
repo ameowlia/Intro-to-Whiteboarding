@@ -5,3 +5,5 @@ Create a JavaScript function called *removeDupes* that takes a string, removes a
 Example: 
 removeDupes("google") #=> "gole"
 
+###Solutions
+
