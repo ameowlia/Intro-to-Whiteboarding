@@ -5,6 +5,11 @@
 - submit a pull request
 
 ## Past Questions
+**Jan 28th: Big O**
+- [Remove Duplicates](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/remove_dups.md)
+- [Apple Stocks](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/apple_stocks.md)
+- [Cocktail Sort](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/cocktail_sort.md)
+
 **Jan 21st: Recursion**
 
 - [Factorial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/factorial.md)
