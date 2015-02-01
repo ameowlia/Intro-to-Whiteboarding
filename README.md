@@ -36,7 +36,7 @@ Date | Topic | Alum Lead
 - [Intro to Recursion](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf)
 - [Intro to Recursion cont.](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf)
 - [Interview Cake](https://www.interviewcake.com/)
-
+- [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
 
 ## How You Can Contribute
 
