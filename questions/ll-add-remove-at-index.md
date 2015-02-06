@@ -2,7 +2,7 @@
 
 <script src="https://gist.github.com/johnakers/da6e36ac6f1ecd590f89.js"></script>
 
-Using the Linked List code in the Gist...
+Using the Linked List code in the <a href="https://gist.github.com/johnakers/da6e36ac6f1ecd590f89">Gist</a>
 
 Create an 'Add at Index' and a 'Remove at Index'
 
