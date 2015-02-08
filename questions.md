@@ -5,6 +5,11 @@
 - submit a pull request
 
 ## Past Questions
+**Feb 4th: Linked Lists**
+- [Add and Remove at Index](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/add_remove_linked_list.md)
+- [Print a Linked List in Reverse](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/print_linked_list_reverse.md)
+- [Circular Linked List](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/circular_linked_lists.md)
+
 **Jan 28th: Big O**
 - [Remove Duplicates](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/remove_dups.md)
 - [Apple Stocks](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/apple_stocks.md)
