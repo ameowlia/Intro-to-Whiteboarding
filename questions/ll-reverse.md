@@ -5,3 +5,5 @@
 ##### Hint
 
 You can reverse the list then make a print method but you don't have to. There are both iterative and recursive solutions.
+
+- [Danny Glover's solution for printing in reverse AND reversing the list in place](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/linked_list_dannyg.rb)
