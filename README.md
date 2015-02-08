@@ -1,5 +1,7 @@
 # Intro to Algorithms and Whiteboarding
 #### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
+- [All Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
 
 ## What is it?
 
