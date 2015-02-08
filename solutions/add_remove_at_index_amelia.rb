@@ -28,13 +28,7 @@ class LinkedList
 			return
 		end
 
-		current = @head
-		counter = 0
-		while counter < index - 1
-			current = current.pointer
-			counter += 1
-		end 
-
+		current = iterate_until{|current, counter| counter == index-1}
 		node.pointer = current.pointer
 		current.pointer = node
 	end
@@ -46,13 +40,7 @@ class LinkedList
 			return remove_node.value
 		end 
 
-		current = @head
-		counter = 0
-		while counter < index - 1
-			current = current.pointer
-			counter += 1
-		end 
-
+		current = iterate_until{ |current, counter| counter == index-1;}
 		remove_node = current.pointer
 		current.pointer = current.pointer.pointer
 		return remove_node.value
@@ -61,24 +49,32 @@ class LinkedList
 	def value_at_index(index)
 		counter = 0
 		current = @head 
-		while current != nil 
-			return current.value if counter == index
-			current = current.pointer
-			counter += 1
-		end 
-		return nil
+		current = iterate_until{ |current, counter| current == nil || counter == index}
+		return current ? current.value : nil
 	end
 
 	def size
+		current = iterate_until{ |current, counter| return counter if current == nil }
+		# counter = 0
+		# current = @head 
+		# while current != nil 
+		# 	current = current.pointer
+		# 	counter += 1
+		# end 
+		# return counter
+	end 
+
+	private 
+
+	def iterate_until
+		current = @head
 		counter = 0
-		current = @head 
-		while current != nil 
+		until yield(current, counter)
 			current = current.pointer
 			counter += 1
 		end 
-		return counter
-	end 
-
+		return current
+	end
 end 
 
 
@@ -125,3 +121,4 @@ init_value = ll.value_at_index(0)
 p ll.remove_at_index(0) == init_value
 p ll.size == 0
 
+p ll.value_at_index(5) == nil
