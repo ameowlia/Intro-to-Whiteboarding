@@ -5,3 +5,4 @@ Alter your Linked List class so it becomes a circular linked list. How will you 
 Hint: Assign a "tail" variable to denote the end of the linked list.
 
 ###Solutions
+- [Amelia's linked list class (but you should write your own)](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/linked_list_class_amelia.rb)
