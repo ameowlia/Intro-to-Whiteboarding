@@ -109,6 +109,33 @@ class LinkedList
     end
   end
 
+  # recursive print reverse solution, pass in self.head as an argument to avoid resetting it in the function on recursive calls.
+  # Time: O(n) - we have to touch each node at least once
+  # Space: O(n) - stack is growing as we go deeper. Each call is one more variable, n levels deep
+  def print_reverse_order(node = self.head)
+    if node == nil
+      return
+    end
+    print_reverse_order(node.next)
+    p node.value
+  end
+
+  # Reverse the linked list in place. We need 3 pointers: one for the current node, one for the previous node, and one for the next node (since we mess up current.next when we flip it around).
+  # Time: O(n) we have to walk thru the whole list once
+  # Space: O(1) constant because we've only made 3 new variables that get updated each time we move forward along the list
+  def reverse_list
+    current_node = @head
+    previous_node = nil
+    while(current_node != nil)
+      next_node = current_node.next
+      current_node.next = previous_node
+      previous_node = current_node
+      current_node = next_node
+    end
+    @head = previous_node
+  end
+
+
 
 end
 
@@ -125,5 +152,27 @@ my_list.add_at_index(40,1)
 my_list.add_at_index(500,2)
 my_list.add_at_index(600,3)
 my_list.add_at_index(700,4)
-my_list.remove_at_index(5)
+# my_list.print_list
+my_list.reverse_list
 my_list.print_list
+# my_list.print_list
+
+
+
+ # count = 0
+    # while count < @size-1
+    #   byebug
+    #   current = @head
+    #   just_after = current.next
+    #   next_temp = current.next.next
+    #   just_after.next = current
+    #   next_temp.next = just_after if next_temp
+    #   current.next = nil
+    #   if next_temp
+    #     @head = next_temp
+    #   else
+    #     @head = just_after
+    #   end
+    #   count +=1
+    # end
+    # p count
