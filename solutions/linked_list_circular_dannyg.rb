@@ -10,10 +10,11 @@ end
 
 
 class LinkedList
-  attr_accessor :head, :size
+  attr_accessor :head, :size, :tail
 
   def initialize
     @head = nil
+    @tail = nil
     @size = 0
   end
 
@@ -21,30 +22,28 @@ class LinkedList
   def print_list
     node = @head
     index = 0
-    while node != nil
+    while index < @size
       print "Index: #{index} Value: #{node.value}\n"
       node = node.next
       index +=1
     end
+
   end
 
-  # Walk through the list and once you reach the end add a new value. This method isnt very practical since linked lists major value comes from being able to add or remove at any index while maintaining constant space. Also an array could add to the end in constant time. This is a good first method just to fill up a list, test print, etc.
-  # Time: O(n)
+  # Having a circular link list, specifically having a tail variable, makes adding to the end a constant time operation!
+  # Time: O(1)
   # Space: O(1)
   def add_to_end(value)
     if @size == 0
       @head = Node.new(value)
-      @size += 1
+      @tail = @head
+      @head.next = @tail
     else
-      current = @head
-      index = 0
-      while index < @size
-        current.next = Node.new(value) if current.next == nil
-        current = current.next
-        index += 1
-      end
-      @size += 1
+      @tail.next = Node.new(value)
+      @tail = @tail.next
+      @tail.next = @head
     end
+    @size += 1
   end
 
   #Time: O(n)
@@ -56,7 +55,9 @@ class LinkedList
     end
     if @size == 0
       @head = Node.new(value)
-      @size += 1
+      @tail = @head
+      @head.next = @tail
+      @size +=1
       return
     end
 
@@ -65,6 +66,14 @@ class LinkedList
       node_to_add = Node.new(value)
       node_to_add.next = @head
       @head = node_to_add
+      # this may be unnecesary, need to test
+      @tail.next = @head
+      @size +=1
+    elsif index == size
+      #adding at end, tail is affected
+      @tail.next = Node.new(value)
+      @tail = @tail.next
+      @tail.next = @head
       @size +=1
     else
       walking_counter = 0
@@ -96,6 +105,7 @@ class LinkedList
     if index == 0
       @head = @head.next
       @size -= 1
+
     else
       walking_counter = 0
       node_just_before = @head
@@ -105,6 +115,10 @@ class LinkedList
       end
       node_to_remove = node_just_before.next
       node_just_before.next = node_to_remove.next
+      if index == (size-1)
+        # just removed tail need to update
+        @tail = node_just_before
+      end
       @size -=1
     end
   end
@@ -113,7 +127,7 @@ class LinkedList
   # Time: O(n) - we have to touch each node at least once
   # Space: O(n) - stack is growing as we go deeper. Each call is one more variable, n levels deep
   def print_reverse_order(node = self.head)
-    if node == nil
+    if node == @tail
       return
     end
     print_reverse_order(node.next)
@@ -129,15 +143,20 @@ class LinkedList
       p "List is empty, nothing to reverse"
       return
     end
+    new_tail = @head
     current_node = @head
     previous_node = nil
-    while(current_node != nil)
+    index =0
+    while index < @size
       next_node = current_node.next
       current_node.next = previous_node
       previous_node = current_node
       current_node = next_node
+      index +=1
     end
     @head = previous_node
+    @tail = new_tail
+    @tail.next = @head
   end
 
 
@@ -148,12 +167,17 @@ end
 my_list = LinkedList.new
 # my_list.add_at_index(7,3)
 # my_list.print_list
-# my_list.add_to_end(3)
-# my_list.add_to_end(4)
-# my_list.add_to_end(1)
+my_list.add_at_index(3,0)
+my_list.add_at_index(7,1)
+my_list.add_at_index(9,2)
+my_list.add_at_index(11,2)
+my_list.add_at_index(13,2)
 
-
-# my_list.print_list
-my_list.reverse_list
+my_list.remove_at_index(2)
 my_list.print_list
+p my_list.tail.value
+my_list.reverse_list
+# my_list.reverse_list
+my_list.print_list
+
 # my_list.print_list
