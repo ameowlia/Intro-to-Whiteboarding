@@ -23,7 +23,8 @@ Date | Topic | Alum Lead
  Jan 28 | Big O | John
  Feb 4 | Linked Lists | John 
  Feb 11 | Trees | Amelia
- Feb 18 | - | - 
+ Feb 18 | Graphs | Danielle
+ Feb 25 | ? | ? 
  
  
  
