@@ -9,3 +9,4 @@ translate_morse_code(["....", ".."]) #=> "hi"
 ```
 
 ###Solutions
+[Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/morse_code_tree.rb)
