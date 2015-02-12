@@ -11,6 +11,8 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 
 **Week 4:** Big O <a href="https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing">Amelia's</a>  | <a href="https://www.dropbox.com/s/in7y5y4u0v0tjym/john_big_o.pptx?dl=0">John's</a>
 
-**Week 5:** Linked Lists <a href="https://www.dropbox.com/s/8pk9khuru83b3iv/lists.pdf?dl=0">John 2/4</a>, [video](https://talks.devbootcamp.com/whiteboarding-and-algorithms-night-linked-lists-4-slash-4-slash-15)
+**Week 5:** Linked Lists
+- 02/04/15 John: [Powerpoint](https://www.dropbox.com/s/8pk9khuru83b3iv/lists.pdf?dl=0) - [Video](https://talks.devbootcamp.com/whiteboarding-and-algorithms-night-linked-lists-4-slash-4-slash-15)
 
-[**Week 6:** Trees](https://docs.google.com/presentation/d/1KCL309jqfXTvIwt7VwIhiau70mGCKLB2mIQWjKVI_1A/edit?usp=sharing)
+**Week 6:** Trees
+- 02/11/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1KCL309jqfXTvIwt7VwIhiau70mGCKLB2mIQWjKVI_1A/edit?usp=sharing)
