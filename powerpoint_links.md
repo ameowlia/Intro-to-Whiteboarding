@@ -6,9 +6,11 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 **Week 1:** Intro to Whiteboarding
 - 01/07/15 Danielle: [Powerpoint](https://docs.google.com/presentation/d/1cSM01KiR6BrNnwIiODO6p3R32MspFiNHppCYOsoKAy4/edit#slide=id.p)
 
-[**Week 2:** Stacks and Queues](https://docs.google.com/presentation/d/1IXc1fcIdf2kN4zckkPuwac7QiUG6owzotFuFmA7_dac/edit?usp=sharing)
+**Week 2:** Stacks and Queues
+- 01/14/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1IXc1fcIdf2kN4zckkPuwac7QiUG6owzotFuFmA7_dac/edit?usp=sharing)
 
-[**Week 3:** Recursion](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0), [video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
+**Week 3:** Recursion
+- 01/21/15 Patrick: [Powerpoint](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0) -  [Video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
 
 **Week 4:** Big O <a href="https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing">Amelia's</a>  | <a href="https://www.dropbox.com/s/in7y5y4u0v0tjym/john_big_o.pptx?dl=0">John's</a>
 
