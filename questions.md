@@ -5,6 +5,11 @@
 - submit a pull request
 
 ## Past Questions
+**Feb 18th: Graphs**
+- [Find all nodes, non-weighted, non-directional]
+- [Find all nodes, not-weighted, directional
+- [Shortest route, weighted, non-directional]
+
 **Feb 11th: Trees**
 - [Find Value in BST](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/find_value_in_BST.md)
 - [Decypher Morse Code](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/decypher_morse_code.md)
