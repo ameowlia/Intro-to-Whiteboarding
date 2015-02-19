@@ -6,9 +6,9 @@
 
 ## Past Questions
 **Feb 18th: Graphs**
-- [Find all nodes, non-weighted, non-directional]
-- [Find all nodes, not-weighted, directional
-- [Shortest route, weighted, non-directional]
+- [Find all nodes, non-directional](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/graph_find_all_nodes.md)
+- [Find all nodes, directional](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/graph_find_all_nodes_directional.md)
+- [Shortest route, weighted, non-directional](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/graph_shortest_route_weighted.md)
 
 **Feb 11th: Trees**
 - [Find Value in BST](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/find_value_in_BST.md)
