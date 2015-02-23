@@ -11,7 +11,7 @@ class Node
 end 
 
 
-# This will make a non-directional graph of a certain
+# This will make a directional graph of a certain
 # size, there is a reasonable chance that the graph 
 # will not be connected. (that is the graph you have 
 # access to from the returned node is not the size that 
@@ -24,11 +24,10 @@ def create_graph(num_nodes)
 	end
 	
 	nodes.each do |node|
-		until node.neighbors.length >=2 
+		until node.neighbors.length >=3
 			neighbor = nodes.sample
 			if neighbor != node && !node.neighbors.include?(neighbor)
 				node.neighbors << neighbor 
-				neighbor.neighbors << node
 			end
 		end
 	end
@@ -71,8 +70,8 @@ def return_values_depth_first(root)
 end 
 
 #TEST
-depth_values = return_values_depth_first(root1).sort 
-breadth_values = return_values_breadth_first(root2).sort
-#This test will be true most of the time. 
+p depth_values = return_values_depth_first(root1).sort 
+p breadth_values = return_values_breadth_first(root2).sort
+#This test will be true most(ish) of the time. 
 #Occasionally, the graphs are not connected.
 p depth_values == breadth_values
