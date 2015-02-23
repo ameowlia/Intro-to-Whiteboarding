@@ -75,3 +75,8 @@ p breadth_values = return_values_breadth_first(root2).sort
 #This test will be true most(ish) of the time. 
 #Occasionally, the graphs are not connected.
 p depth_values == breadth_values
+
+# Does this code look familiar to you? That's becasue 
+# IT IS THE EXACT SAME CODE as the non-directional question
+# the only thing that changed is one line in the generator 
+# making it a directional tree vs a non-directional tree.
