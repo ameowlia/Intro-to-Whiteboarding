@@ -7,3 +7,4 @@ For example: The graph below the right would return #=> “ABCDEF”
 
 
 ###Solutions
+[Amelia's Solution - Ruby (includes a function for generating a non-directional tree)](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/find_all_nodes_non_directional_amelia.rb)
