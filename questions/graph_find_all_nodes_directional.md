@@ -8,3 +8,4 @@ For example: The graph below would return #=> “ABCDEF”
 
 
 ###Solutions
+[Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/find_all_nodes_directional_amelia.rb)
