@@ -5,28 +5,28 @@
 
 ## What is it?
 
-A weekly workshop created to help DBC alumi practice their technical interview skills. The workshops are generally strucutred as follows: 
+A weekly workshop created to help DBC alumi practice their technical interview skills. The workshops are generally strucutred as follows:
 
 **6:30-7:00:** Thunder talk on an algorithms topic.
 
 **7:00-7:45:** Split up into groups of three. A new problem is displayed every 15 minutes. Each group member solves one problem while the other two group members act as interviewers.
 
-**7:45-8:00:** Everyone gathers back together as a large group and discusses the questions. 
+**7:45-8:00:** Everyone gathers back together as a large group and discusses the questions.
 
 ## Schedule
 
 Date | Topic | Alum Lead
  --- | --- | ---
  Jan 28 | Big O | John
- Feb 4 | Linked Lists | John 
+ Feb 4 | Linked Lists | John
  Feb 11 | Trees | Amelia
  Feb 18 | Graphs | Danielle & Patrick
  Feb 25 | Intro to Whiteboarding | Neil
  Mar 4 | Stacks and Queues | Amelia
  Mar 11 | Recursion | ?
- 
- 
- 
+
+
+
 ## Resources
 
 **Internal**
@@ -39,6 +39,7 @@ Date | Topic | Alum Lead
 - [Intro to Recursion cont.](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf)
 - [Interview Cake](https://www.interviewcake.com/)
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
+- [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
 
 ## How You Can Contribute
 
@@ -49,10 +50,10 @@ Date | Topic | Alum Lead
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-Lauren Kroner: lauren.kroner@gmail.com  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+Lauren Kroner: lauren.kroner@gmail.com
+Patrick Reynolds: patrickscottreynolds@gmail.com
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
 Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
 
 
