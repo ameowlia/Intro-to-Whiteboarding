@@ -23,7 +23,7 @@ Date | Topic | Alum Lead
  Feb 18 | Graphs | Danielle & Patrick
  Feb 25 | Intro to Whiteboarding | Neil
  Mar 4 | Stacks and Queues | Amelia
- Mar 11 | Recursion | ?
+ Mar 11 | Recursion | Patrick (the cooler one)
 
 
 
