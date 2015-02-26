@@ -16,3 +16,4 @@ Returns:  8
 - Can you use a hash?
 
 ###Solutions
+[Neil's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/lonely_number_neil.rb)
