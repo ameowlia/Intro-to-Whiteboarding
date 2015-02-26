@@ -21,7 +21,7 @@ After you finish all the instructions, you need to return the average number of 
 
 ###Solutions
 
-
+[Neil's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/counting_candy_neil.rb)
 
 
 
