@@ -22,7 +22,7 @@ Date | Topic | Alum Lead
  Feb 25 | Intro to Whiteboarding | Neil
  Mar 4 | Stacks and Queues | Amelia
  Mar 11 | Recursion | Patrick (the cooler one)
- Mar 18 | Big O | -
+ Mar 18 | Big O | - John
  Mar 25 | Linked Lists | -
 
 
