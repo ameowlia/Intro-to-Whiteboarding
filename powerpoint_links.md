@@ -9,6 +9,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 
 **Week 2: Stacks and Queues**
 - 01/14/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1IXc1fcIdf2kN4zckkPuwac7QiUG6owzotFuFmA7_dac/edit?usp=sharing)
+- 03/04/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1g5ksDEMsPSmEzJcBsW4PqgZnL31HlyVz2pvl1jljHSk/edit?usp=sharing)
 
 **Week 3: Recursion**
 - 01/21/15 Patrick: [Powerpoint](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0) -  [Video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
