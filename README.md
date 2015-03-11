@@ -18,9 +18,7 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 ## General Curriculum
 
-Click each title to see a list of previous questions and answers. [Click here to see a list of all ppts.](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
-
-[**Week 1:** Intro to Whiteboarding](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/intro-to-whiteboarding-questions.md)
+**Week 1:** Intro to Whiteboarding
 
 **Week 2:** Stacks and Queues
 
@@ -39,23 +37,34 @@ Date | Topic | Alum Lead
  --- | --- | ---
  Jan 7 | Intro to Whiteboarding | Danielle
  Jan 14 | Stacks and Queues | Amelia
- Jan 21 | Recursion | -
+ Jan 21 | Recursion | Patrick
  Jan 28 | Big O | -
  Feb 4 | Linked Lists | - 
  
  
-## Recommended Resources
+## Resources
+
+### Internal
+- [All Powerpoints](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
+
+### External
+- [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 
 ## How You Can Contribute
 
-- Share your solutions on the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md) page so we can learn collectively! Do this the DBC way: Clone the git repo locally, make a branch using your name, save solutions on your branch and push that branch to the remote repo. As per usual DBC protocol, please don't push origin master.
+- Add your solutions to the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
+- [Give us feedback](https://www.surveymonkey.com/s/QCKHQKZ)
+- [Join the G+ Community!](https://plus.google.com/u/0/communities/114320193647581293833)
 
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com
-Lauren Kroner: lauren.kroner@gmail.com
+Amelia Downs: downs.amelia@gmail.com  
+Lauren Kroner: lauren.kroner@gmail.com  
+Patrick Reynolds: patrickscottreynolds@gmail.com  
+
 
 
 [Give us feedback!](https://www.surveymonkey.com/s/QCKHQKZ)

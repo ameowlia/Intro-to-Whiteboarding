@@ -3,14 +3,12 @@
 **Write a function to reverse a string in place.
 "In place" means "without creating a new string in memory."**
 
-Use a language where strings are mutable, like Ruby. In some languages, like Python, strings are immutable, meaning they cannot be changed after they're created.
+Hints can be found at the original source: [Reverse a string](https://www.interviewcake.com/question/reverse-string-in-place).
+Origionally from: Interview Cake
 
-If you're not comfortable coding in a language with mutable strings, reverse an array of characters instead.
+###Solutions
+[Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/reverse-a-string-amelia.rb)
 
-Hints can be found at the original source:[Reverse a string](https://www.interviewcake.com/question/reverse-string-in-place).
+[Anna's Solution](https://github.com/shinshinwu/Intro-to-Whiteboarding-DBC/blob/master/solutions/reverse-a-string-anna.rb)
 
-##########################
-Solutions Below This Line
-##########################
 
-Place solutions on your own branch. Do not push origin master.
