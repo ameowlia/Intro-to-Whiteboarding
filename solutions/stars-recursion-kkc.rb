@@ -11,7 +11,7 @@ end
 # "done"
 
 def star_forward_backward(num, start = 1)
-  if start < 3
+  if start < num
     puts "*" * start
     star_forward_backward(num, start + 1)
   elsif num > 0
@@ -22,7 +22,7 @@ def star_forward_backward(num, start = 1)
   end
 end
 
-p star_forward_backward(3)
+p star_forward_backward(5)
 
 # *
 # **
