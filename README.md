@@ -17,14 +17,16 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 Date | Topic | Alum Lead
  --- | --- | ---
- Feb 11 | Trees | Amelia
- Feb 18 | Graphs | Danielle & Patrick
  Feb 25 | Intro to Whiteboarding | Neil
  Mar 4 | Stacks and Queues | Amelia
  Mar 11 | Recursion | Patrick (the cooler one, jk)
  Mar 18 | Big O | John
- Mar 25 | Linked Lists | -
+ Mar 25 | Linked Lists | Devon
  Apr 1 | Trees | Kevin
+ Apr 8 | Graphs | -
+ Apr 15 | Intro to Whiteboarding | -
+ 
+ 
 
 
 
