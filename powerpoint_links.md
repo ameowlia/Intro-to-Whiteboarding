@@ -24,6 +24,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 
 **Week 6: Trees**
 - 02/11/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1KCL309jqfXTvIwt7VwIhiau70mGCKLB2mIQWjKVI_1A/edit?usp=sharing)
+- 04/01/15 Kevin: [Powerpoint](https://docs.google.com/presentation/d/1HLLWUULE4hx2IWdQm6Ni7WLcgIeHJrm_Kh-_yYhJh-4/edit?usp=sharing)
 
 **Week 7: Graphs**
 - 02/18/15 Danielle & Patrick: [Powerpoint](https://docs.google.com/presentation/d/1RBpjIbORcNptwg_Cp4xCtIBz-tTTvXfo1IKGmj6fufI/edit?usp=sharing)
