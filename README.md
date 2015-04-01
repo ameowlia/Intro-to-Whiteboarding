@@ -17,14 +17,16 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 Date | Topic | Alum Lead
  --- | --- | ---
- Feb 11 | Trees | Amelia
- Feb 18 | Graphs | Danielle & Patrick
  Feb 25 | Intro to Whiteboarding | Neil
  Mar 4 | Stacks and Queues | Amelia
  Mar 11 | Recursion | Patrick (the cooler one, jk)
- Mar 18 | Big O | - John
- Mar 25 | Linked Lists | -
- Apr 1 | Trees | - Kevin
+ Mar 18 | Big O | John
+ Mar 25 | Linked Lists | Devon
+ Apr 1 | Trees | Kevin
+ Apr 8 | Graphs | -
+ Apr 15 | Intro to Whiteboarding | -
+ 
+ 
 
 
 
@@ -51,11 +53,11 @@ Date | Topic | Alum Lead
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
-Lauren Kroner: lauren.kroner@gmail.com
-Patrick Reynolds: patrickscottreynolds@gmail.com
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
+Lauren Kroner: lauren.kroner@gmail.com  
+Patrick Reynolds: patrickscottreynolds@gmail.com  
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
+Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
