@@ -6,6 +6,12 @@
 
 ## Past Questions
 
+**April 1: Trees**
+
+- [Find Value in BST](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/find_value_in_BST.md)
+- [Valid Binary Search Tree](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tree_valid_bst.md)
+- [Delete a Node](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tree_delete_node.md)
+
 **March 25: Linked Lists**
 
 - [Three basic methods](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/linked_list_basic_methods.md)
