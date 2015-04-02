@@ -23,8 +23,8 @@ Date | Topic | Alum Lead
  Mar 18 | Big O | John
  Mar 25 | Linked Lists | Devon
  Apr 1 | Trees | Kevin
- Apr 8 | Graphs | -
- Apr 15 | Intro to Whiteboarding | -
+ Apr 8 | Intro to Whiteboarding | John
+ Apr 15 | Stacks & Queues (or Harder Generic Whiteboaring?) | -
  
  
 
