@@ -26,7 +26,7 @@ Date | Topic | Alum Lead
  Apr 8 | Intro to Whiteboarding | John
  Apr 15 | Stacks & Queues | Amelia
  Apr 22 | Recursion | ?
- Apr 29 | Big O | ?
+ Apr 29 | Big O | (John if nobody else)
  
  
 
