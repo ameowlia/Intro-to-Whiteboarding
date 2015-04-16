@@ -25,7 +25,7 @@ Date | Topic | Alum Lead
  Apr 1 | Trees | Kevin
  Apr 8 | Intro to Whiteboarding | John
  Apr 15 | Stacks & Queues | Amelia
- Apr 22 | Recursion | ?
+ Apr 22 | Recursion | Andy
  Apr 29 | Big O | (John if nobody else)
  
  
