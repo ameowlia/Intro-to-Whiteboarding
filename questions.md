@@ -6,6 +6,11 @@
 
 ## Past Questions
 
+**April 15: Stacks and Queues**
+- [Write queue class](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class.md)
+- [Create queue with two stacks](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class-two-stacks.md)
+- [Matching Parentheses](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/matching-parens.md)
+
 **April 1: Trees**
 
 - [Find Value in BST](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/find_value_in_BST.md)
