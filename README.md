@@ -21,7 +21,7 @@ Date | Topic | Alum Lead
  Apr 15 | Stacks & Queues | Amelia
  Apr 22 | Recursion | Andy
  Apr 29 | Big O | Amelia
- May 6 | Linked Lists | -
+ May 6 | Linked Lists | Peter
  May 13 | Trees | - 
  May 20 | Intro to Whiteboarding| - 
  
