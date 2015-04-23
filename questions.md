@@ -6,6 +6,11 @@
 
 ## Past Questions
 
+**April 22: Recursion** 
+- [Valid Parens](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_valid_parens.md)
+- [Combinations](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_combinations.md)
+- [Merge Sort](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/merge_sort.md)
+
 **April 15: Stacks and Queues**
 - [Write queue class](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class.md)
 - [Create queue with two stacks](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/queue-class-two-stacks.md)
