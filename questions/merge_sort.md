@@ -12,3 +12,4 @@ Conceptually, a merge sort works as follows:
 
 ###Solutions
 Add links to your solutions here :)
+- [Andy's Ruby Solution](https://github.com/acarl005/Recursion-Talk/blob/master/recursion%20lecture/code/merge.rb)
