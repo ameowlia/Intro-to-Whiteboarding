@@ -14,3 +14,4 @@ Figure out the base case!
 
 ###Solutions
 Put links to your solutions here :) 
+- [Andy's Ruby Solution](https://github.com/acarl005/Recursion-Talk/blob/master/recursion%20lecture/code/combination.rb)
