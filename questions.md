@@ -3,6 +3,7 @@
 - add your well named file to the solutions directory
 - add a link to your solution file on the question page
 - submit a pull request
+- questions? ask Amelia at downs.amelia@gmail.com
 
 ## Past Questions
 
