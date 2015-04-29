@@ -18,7 +18,6 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 **Week 4: Big O**
 - 12/10/14 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing)
 - 01/28/15 John: [Powerpoint](https://www.dropbox.com/s/in7y5y4u0v0tjym/john_big_o.pptx?dl=0)
-- 
 
 **Week 5: Linked Lists**
 - 02/04/15 John: [Powerpoint](https://www.dropbox.com/s/8pk9khuru83b3iv/lists.pdf?dl=0) - [Video](https://talks.devbootcamp.com/whiteboarding-and-algorithms-night-linked-lists-4-slash-4-slash-15)
