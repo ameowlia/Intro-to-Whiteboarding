@@ -23,7 +23,7 @@ Apr 22 | Recursion | Andy
 Apr 29 | Big O | Amelia
 May 6 | Linked Lists | Peter
 May 13 | Trees | John 
-May 20 | Intro to Whiteboarding| Carie
+May 20 | Intro to Whiteboarding| Cari
 May 27 | Stacks & Queues | Mikhail & Erin
 June 3 | Recursion | -
  
