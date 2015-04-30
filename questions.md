@@ -7,6 +7,11 @@
 
 ## Past Questions
 
+**April 29: Big O** 
+- [Reverse a string](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/reverse-a-string.md)
+- [Is Anagram?](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/is_anagram.md)
+- [Is Prime?](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/is_prime.md)
+
 **April 22: Recursion** 
 - [Valid Parens](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_valid_parens.md)
 - [Combinations](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_combinations.md)
