@@ -23,6 +23,7 @@
 # if a number n = a*b and 1 < a <= b, then a^2 <= ab <= b^2
 # therefore a^2 <=n <= b^2, then a <=sqrt(n) <= b
 # there has to be a prime factor till sqrt(n) if n is composite. if there is no prime factor till sqrt(n), n is itself a prime.
+
 def is_prime?(number)
   return false if number < 2
   i = 2
@@ -35,6 +36,7 @@ end
 
 # b) Time complexity is 0(sqrt(n)) since the worst case is we go all the way to sqrt(number).
 # Space complexity is 0(1) because we are making space for only 1 variable, i
+
 
 # TEST DRIVE:
 p is_prime?(2) == true
