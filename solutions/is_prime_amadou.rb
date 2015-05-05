@@ -33,6 +33,9 @@ def is_prime?(number)
   true
 end
 
+# b) Time complexity is 0(sqrt(n)) since the worst case is we go all the way to sqrt(number).
+# Space complexity is 0(1) because we are making space for only 1 variable, i
+
 # TEST DRIVE:
 p is_prime?(2) == true
 p is_prime?(-4) == false
