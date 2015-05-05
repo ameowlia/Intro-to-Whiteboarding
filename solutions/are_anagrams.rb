@@ -12,6 +12,10 @@ def are_anagrams?(string1, string2)
   return string1.chars.sort == string2.chars.sort
 end
 
+# b) Time and space complexity:
+# 0(n) time and 0(1) space
+
+
 # TEST
 p are_anagrams?("dbc", "cdb") == true
 p are_anagrams?("dbc", "pizzarules") == false
