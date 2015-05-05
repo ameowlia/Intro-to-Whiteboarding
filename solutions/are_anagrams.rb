@@ -2,3 +2,16 @@
 
 # Explain the time and space complexity of your algorithm.
 
+# Bonus: Can you do it without using the Ruby method #sort?
+
+# SOLUTION
+
+# a) Using Ruby's sort method:
+def are_anagrams?(string1, string2)
+  return false if string1.length != string2.length
+  return string1.chars.sort == string2.chars.sort
+end
+
+# TEST
+p are_anagrams?("dbc", "cdb") == true
+p are_anagrams?("dbc", "pizzarules") == false
