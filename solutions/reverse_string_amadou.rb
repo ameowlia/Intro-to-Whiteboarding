@@ -2,12 +2,19 @@
 
 # Solution
 
+# PSEUDOCODE
+# We return the string itself if its length is less than 2
+# We define 2 variables, i and j; i starts at 0 and j start at the end of the input string (string length - 1)
+# We iterate as long as i is less than or equal to j.
+# We swap the values of the string at position i and j.
+# We then increment i and decrement j
+
 def reverse(string)
   len = string.length
   return string if len < 2
   i = 0
   j = len - 1
-  while i < j
+  while i <= j
     # swap string[i] with string[j]
     temp = string[i]
     string[i] = string[j]
