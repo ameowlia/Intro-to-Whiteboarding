@@ -8,19 +8,15 @@ def reverse(string)
   i = 0
   j = len - 1
   while i < j
+    # swap string[i] with string[j]
     temp = string[i]
     string[i] = string[j]
     string[j] = temp
+    # Increment i and decrement j
     i += 1
     j -= 1
   end
   string
-end
-
-def swap(a, b)
-  temp = a
-  a = b
-  b = temp
 end
 
 # TEST DRIVE
