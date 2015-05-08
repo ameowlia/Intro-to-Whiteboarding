@@ -7,6 +7,11 @@
 
 ## Past Questions
 
+**May 6: Linked Lists**
+- [Three basic methods](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/linked_list_basic_methods.md)
+- [Zip](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/linked_list_zip.md)
+- [Reverse](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/reverse_linked_list.md)
+
 **April 29: Big O** 
 - [Reverse a string](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/reverse-a-string.md)
 - [Is Anagram?](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/is_anagram.md)
