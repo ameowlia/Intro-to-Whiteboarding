@@ -19,15 +19,15 @@ Date | Topic | Alum Lead
  --- | --- | ---
 Apr 29 | Big O | Amelia
 May 6 | Linked Lists | Peter
-May 13 | Trees | John 
+May 13 | Trees | John
 May 20 | Intro to Whiteboarding| Cari
 May 27 | Stacks & Queues | Mikhail & Erin
-June 3 | Recursion | -
-June 10 | Big O | - 
+June 3 | Recursion | Jack
+June 10 | Big O | -
 June 17 | Linked Lists | -
 
- 
- 
+
+
 
 
 
@@ -54,11 +54,11 @@ June 17 | Linked Lists | -
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-Lauren Kroner: lauren.kroner@gmail.com  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+Lauren Kroner: lauren.kroner@gmail.com
+Patrick Reynolds: patrickscottreynolds@gmail.com
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
+Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
