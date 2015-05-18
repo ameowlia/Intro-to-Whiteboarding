@@ -1,0 +1,18 @@
+var removeDupes = function(string) {
+    string = string.toLowerCase();
+    for (var a = 0; a < string.length; a++) {
+        for (var b = a; b < string.length; b++) {
+            if (a !== b && string[a] === string[b]) {
+                string = string.slice(0, b) + string.slice(b + 1, string.length);
+
+            }
+        }
+    } return string
+}
+
+removeDupes("Google");
+removeDupes("Scott");
+removeDupes("chicken");
+
+// time complexity On^2
+// space complexity O1
