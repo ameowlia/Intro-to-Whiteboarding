@@ -7,4 +7,5 @@ removeDupes("google") #=> "gole"
 
 ###Solutions
 - [Amelia's Solution, Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/remove_duplicates_amelia.rb)
+- [Nichole's Solution, Javascript](https://github.com/vibrantlife/Intro-to-Whiteboarding-DBC/blob/getDupes/solutions/removeDuplicates_js_ns)
 
