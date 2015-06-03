@@ -21,9 +21,9 @@ May 20 | Intro to Whiteboarding| Cari
 May 27 | Stacks & Queues | Mikhail & Erin
 June 3 | Recursion | Jack
 June 10 | Big O | - John
-June 17 | Linked Lists | -
-June 24 | Trees | - 
-July 1 | Intro to Whiteboarding | - 
+June 17 | Linked Lists | Amadou
+June 24 | Trees | -
+July 1 | Intro to Whiteboarding | -
 
 
 
@@ -53,11 +53,11 @@ July 1 | Intro to Whiteboarding | -
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-Lauren Kroner: lauren.kroner@gmail.com  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+Lauren Kroner: lauren.kroner@gmail.com
+Patrick Reynolds: patrickscottreynolds@gmail.com
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
+Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
