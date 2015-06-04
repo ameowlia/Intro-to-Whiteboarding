@@ -20,7 +20,7 @@ Date | Topic | Alum Lead
 May 20 | Intro to Whiteboarding| Cari
 May 27 | Stacks & Queues | Mikhail & Erin
 June 3 | Recursion | Jack
-June 10 | Big O | - John
+June 10 | Big O | John
 June 17 | Linked Lists | -
 June 24 | Trees | - 
 July 1 | Extra bonus fun week | - 
