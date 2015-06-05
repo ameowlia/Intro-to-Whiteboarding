@@ -17,14 +17,14 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 Date | Topic | Alum Lead
  --- | --- | ---
-May 20 | Intro to Whiteboarding| Cari
-May 27 | Stacks & Queues | Mikhail & Erin
-June 3 | Recursion | Jack
 June 10 | Big O | John
 June 17 | Linked Lists | Amadou
 June 24 | Trees | - 
 July 1 | Extra bonus fun week | - 
 July 8 | Intro to Whiteboarding | Amelia 
+July 15 | Stacks & Queues | -
+July 22 | Recursion | -
+July 29 | Big O | -
 
 
 
