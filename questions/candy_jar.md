@@ -18,7 +18,7 @@ After you finish all the instructions, you need to return the average number of 
 
 *Example Output:* 160
 
-###Solutions
+##Solutions
 
 [Neil's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/counting_candy_neil.rb)
 
