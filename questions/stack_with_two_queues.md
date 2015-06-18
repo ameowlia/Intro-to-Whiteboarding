@@ -21,4 +21,4 @@ You may assume you have a queue class with the five methods listed below.
 
 
 ### Solutions
-- *put a link to your solution here*
+- [Patrick's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-patrick.js)
