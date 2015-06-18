@@ -20,7 +20,7 @@ Date | Topic | Alum Lead
 June 10 | Big O | John
 June 17 | Linked Lists | Amadou
 June 24 | Trees | Charles
-July 1 | Extra bonus fun week | - 
+July 1 | HACKATHON | - 
 July 8 | Intro to Whiteboarding | Amelia 
 July 15 | Stacks & Queues | -
 July 22 | Recursion | -
