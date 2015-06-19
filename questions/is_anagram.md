@@ -14,3 +14,4 @@ are_anagrams?(“dbc”, “pizzarules”) #=> false
 
 ###Solutions
 add a link to your solution here :)
+https://github.com/wardch/Algorithms/blob/master/are_anagrams.rb
