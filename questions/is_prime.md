@@ -16,3 +16,4 @@ is_prime?(6) #=> false
 
 ###Solutions
 Add a link to your solution here :) 
+https://github.com/wardch/Algorithms/blob/master/is_prime.rb
