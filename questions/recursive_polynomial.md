@@ -1,6 +1,8 @@
 #Recursive polynomial
 
 Write a method to expand nth polynomial, for example:
+- (a+b)<sup>0</sup> = 1
+- (a+b)<sup>1</sup> = a<sup>1</sup> + b<sup>1</sup>
 - (a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup>
 - (a+b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>*b + 3a*b<sup>2</sup> + b<sup>3</sup>
 
