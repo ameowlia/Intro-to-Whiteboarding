@@ -13,8 +13,8 @@ The above question seems scary, but it actually is only asking for Pascal's tria
 .....
 ```
 
- a. Please write a method to calculate the value at a given row/column in Pascal's triangle ( e.g. pascal(4,2)=6 )
- b. Please write a method to print out the entire triangle from 1 to nth level.
+* a. Please write a method to calculate the value at a given row/column in Pascal's triangle ( e.g. pascal(4,2)=6 )
+* b. Please write a method to print out the entire triangle from 1 to nth level.
 
 
 ###Solutions
