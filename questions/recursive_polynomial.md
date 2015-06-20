@@ -1,6 +1,8 @@
 #Recursive polynomial
 
-Write a method to expand nth polynomial, e.g. (a+b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>*b + 3a*b<sup>2</sup> + b<sup>3</sup>.
+Write a method to expand nth polynomial, for example:
+- (a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup>
+- (a+b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>*b + 3a*b<sup>2</sup> + b<sup>3</sup>
 
 The above question seems scary, but it actually is only asking for Pascal's triangle:
 
@@ -13,8 +15,8 @@ The above question seems scary, but it actually is only asking for Pascal's tria
 .....
 ```
 
-* a) Please write a method to calculate the value at a given row/column in Pascal's triangle ( e.g. pascal(4,2)=6 )
-* b) Please write a method to print out the entire triangle from 1 to nth level.
+* a: Please write a method to calculate the value at a given row/column in Pascal's triangle ( e.g. pascal(4,2)=6 )
+* b: Please write a method to print out the entire triangle from 1 to nth level.
 
 
 ###Solutions
