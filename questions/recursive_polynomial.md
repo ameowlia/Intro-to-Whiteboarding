@@ -24,11 +24,11 @@ Put links to your solutions here :)
 ----------------------
 Bonus. The following problems are all optional and they can be solved beautifully with recursion.
 
--Mergesort
--Powerset of an array
--Exponent Method: write a method to calculate the value by given base and power.
--Count the number of nodes in a binary tree( or B-Tree, a BST have more than two children) . Available methods are node.left, node.right.  (or node.children in B-Tree case)
--Sieve of Eratosthenes
--Tower of Hanoi
--Traveling Salesperson Problem
--n-Queens problem.
+- Mergesort
+- Powerset of an array
+- Exponent Method: write a method to calculate the value by given base and power.
+- Count the number of nodes in a binary tree( or B-Tree, a BST have more than two children) . Available methods are node.left, node.right.  (or node.children in B-Tree case)
+- Sieve of Eratosthenes
+- Tower of Hanoi
+- Traveling Salesperson Problem
+- n-Queens problem.
