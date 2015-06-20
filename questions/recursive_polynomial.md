@@ -5,15 +5,10 @@ Write a method to expand nth polynomial, e.g. (a+b)^3 = a^3 + 3a^2*b + 3a*b^2 + 
 The above question seems scary, but it actually is only asking for Pascal's triangle:
 
 1
-
 1   1
-
 1   2   1
-
 1   3   3   1
-
 1   4   6   4   1
-
 .....
 
 
