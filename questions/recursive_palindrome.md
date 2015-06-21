@@ -7,7 +7,7 @@ Please write a method to check if a given string palindrome.
 PS. this is the problem to practice your recursion skill, you are welcome to solve in Ruby or JavaScript.
 
 ```Ruby
-is_palindrome?("Nixon")    # => True
+is_palindrome?("No X in Nixon")    # => True
 ```
 
 ###Solutions
