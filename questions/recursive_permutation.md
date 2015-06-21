@@ -17,4 +17,5 @@ PS. this is the problem to practice your recursion skill, you are welcome to sol
 Hint: you can use a combination of looping and recursion, or use trie with recursion.
 
 ###Solutions
-Put links to your solutions here :)
+- Put links to your solutions here :)
+- [Amelia's ruby solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/find_permutations_recursive_amelia.rb?ts=2)
