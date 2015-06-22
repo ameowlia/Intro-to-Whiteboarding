@@ -6,3 +6,6 @@ Input: (3 => 1 => 5), (5 => 9 => 2) # represent 513, 295
 Output: 8 => 0 => 8 # represent 808
 
 Resource: Cracking the Coding Interview by Gayle Laakmann McDowell
+
+###Solutions
+[Amadou's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/linked_list_add_two_lists_amadou.rb)
