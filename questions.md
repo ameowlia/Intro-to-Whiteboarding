@@ -7,7 +7,7 @@
 
 ## Past Questions
 
-**June 17: Linked Lists
+**June 17: Linked Lists**
 - [nth node from end](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/linked_list_nth_node_from_end.md)
 - [Add two linked lists](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/linked_list_add_two_lists.md)
 - [Find beginning of loop in linked list](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/linked_list_find_beginning_of_loop.md)
