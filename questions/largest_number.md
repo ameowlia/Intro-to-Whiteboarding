@@ -6,3 +6,4 @@ Problem from [Leetcode](www.leetcode.com)
 
 ###Solutions
 - *put a link to your solution here*
+- [Amelia's ruby solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/make_longest_number_amelia.rb)

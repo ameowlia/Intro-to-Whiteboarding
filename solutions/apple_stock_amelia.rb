@@ -9,7 +9,7 @@ def max_stock_profit(stock_prices)
 	local_max = stock_prices[1]
 	max_profit_so_far = local_max - local_min
 
-	stock_prices[2..-1].each do |price|
+	stock_prices[1..-1].each do |price|
 
 		if local_max == nil || price > local_max
 			local_max = price

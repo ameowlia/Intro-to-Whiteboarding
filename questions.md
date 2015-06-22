@@ -7,6 +7,11 @@
 
 ## Past Questions
 
+**June 3: Recursion**
+- [Recursive Palindrome](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_palindrome.md)
+- [Recursive permutation](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_permutation.md)
+- [Recursive polynomial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_polynomial.md)
+
 **May 20: Intro to Whiteboarding**
 - [Most Occurring Word](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/most_occurring_word.md)
 - [Largest Number](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/largest_number.md)

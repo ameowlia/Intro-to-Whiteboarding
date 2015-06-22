@@ -9,13 +9,12 @@ After you finish all the instructions, you need to return the average number of 
 
 *Example Input:* [5,[1,2,100],[2,5,100],[3,4,100]]
 
-5 #=> [0,0,0,0,0]
-
-1, 2, 100 #=>[100,100,0,0,0]
-
-2, 5, 100 #=>[100,200,100,100,100]
-
-3, 4, 100 #=>[100,200,200,200,100]
+*Explaining the Input*: 
+- The first element in the array is the number of jars    
+- The rest of the elements are [starting jar, ending jar, the number of candies to add to each jar]   
+- [1, 2, 100] means: add 100 candies to jars 1-2   
+- [2, 5, 100] means: add 100 candies to jars 2-5    
+- [3, 4, 100] means: add 100 candies to jars 3-4    
 
 *Example Output:* 160
 

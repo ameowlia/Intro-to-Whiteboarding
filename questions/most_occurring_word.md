@@ -9,4 +9,4 @@ Considerations: how do you account for capitalization and punctuation?
 
 ###Solutions
 - *put a link to your solution here*
-[Brian Lin](https://github.com/bclin2/Intro-to-Whiteboarding-DBC/blob/brian_lin_solutions/solutions/most_occuring_word-brian.rb)
+- [Brian Lin](https://github.com/bclin2/Intro-to-Whiteboarding-DBC/blob/brian_lin_solutions/solutions/most_occuring_word-brian.rb)
