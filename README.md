@@ -20,15 +20,11 @@ Date | Topic | Alum Lead
 June 10 | Big O | John
 June 17 | Linked Lists | Amadou
 June 24 | Trees | Charles
-July 1 | HACKATHON | - 
-July 8 | Intro to Whiteboarding | Amelia 
+July 1 | HACKATHON | -
+July 8 | Intro to Whiteboarding | Amelia
 July 15 | Stacks & Queues | -
 July 22 | Recursion | -
 July 29 | Big O | -
-
-
-
-
 
 
 ## Resources
@@ -54,11 +50,11 @@ July 29 | Big O | -
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-Lauren Kroner: lauren.kroner@gmail.com  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+Lauren Kroner: lauren.kroner@gmail.com
+Patrick Reynolds: patrickscottreynolds@gmail.com
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
+Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)

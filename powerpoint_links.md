@@ -25,6 +25,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 **Week 5: Linked Lists**
 - 02/04/15 John: [Powerpoint](https://www.dropbox.com/s/8pk9khuru83b3iv/lists.pdf?dl=0) - [Video](https://talks.devbootcamp.com/whiteboarding-and-algorithms-night-linked-lists-4-slash-4-slash-15)
 - 03/25/15 Devon: [Powerpoint](https://drive.google.com/open?id=0B8A4oWYrleTrSmtFdVdCZzdHVnM&authuser=0)
+- 06/17/15 Amadou: [Powerpoint](https://docs.google.com/presentation/d/1_oRDNHxvXy2HIlhLy08S_4by4DamWDiPGIw66gZlt0c/edit?usp=sharing)
 
 **Week 6: Trees**
 - 02/11/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1KCL309jqfXTvIwt7VwIhiau70mGCKLB2mIQWjKVI_1A/edit?usp=sharing)
