@@ -41,7 +41,7 @@ July 29 | Big O | -
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
 - [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
 - [Coursera: Algorithms, Part I from Princeton](https://www.coursera.org/course/algs4partI)
-- [Coursera: Algorithms: Design and Analysis, Part 1 from Stanford](https://www.coursera.org/course/algs4partI)
+- [Coursera: Algorithms: Design and Analysis, Part 1 from Stanford](https://www.coursera.org/course/algo)
 
 ## How You Can Contribute
 
