@@ -16,7 +16,7 @@ require_relative 'linked_list_implementation_amadou'
 def nth_node_from_end(head, n)
   return nil if !head || n < 1
   # Error check: return nil if the size of the linked list is < n
-  return nil if LinkedList.new(head).length < n # Return nil if n is greater than the lenght of the linked list
+  return nil if LinkedList.new(head).length < n # Return nil if n is greater than the length of the linked list
 
   result_pointer = head
   front_pointer = head
@@ -28,7 +28,7 @@ def nth_node_from_end(head, n)
     count += 1 # increment count
   end
 
-  # Now move both pointers until front_pointer reches the last node
+  # Now move both pointers until front_pointer reaches the last node
   while front_pointer.next_node != nil
     result_pointer = result_pointer.next_node
     front_pointer = front_pointer.next_node
@@ -46,5 +46,5 @@ a = Node.new(1, b)
 # p nth_node_from_end(a, 2) # will return node d (of value 4)
 p nth_node_from_end(a, 2).value == 4
 p nth_node_from_end(a, 5).value == 1 # returns node a (of value 1)
-p nth_node_from_end(a, 6) == nil # 6 is > the lenght of the list, 5
+p nth_node_from_end(a, 6) == nil # 6 is > the length of the list, 5
 p nth_node_from_end(d, 3) == nil # 3 > 2 (length of list starting at d)
