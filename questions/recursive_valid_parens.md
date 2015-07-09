@@ -1,8 +1,8 @@
-#Recursive Parentheses Validator
+#Parentheses Validator
 
 Remember the parentheses validator from last week? (If not, it’s okay.)
 
-Write a recursive method that accepts a string argument and returns true if the parentheses within it are properly nested. 
+Write a (optional: recursive) method that accepts a string argument and returns true if the parentheses within it are properly nested. 
 Otherwise, it should return false. Try to accommodate brackets and braces as well.
 
 ```Ruby
@@ -13,5 +13,5 @@ valid_parentheses?( ‘({foo)}’ )                            # => f
 
 ###Solutions
 Add links to your solutions here :)
-- [Andy's Ruby Solution](https://github.com/acarl005/Recursion-Talk/blob/master/recursion%20lecture/code/paren.rb)
+- [Andy's Recursive Ruby Solution](https://github.com/acarl005/Recursion-Talk/blob/master/recursion%20lecture/code/paren.rb)
 
