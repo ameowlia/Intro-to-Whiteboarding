@@ -6,7 +6,7 @@
 - questions? ask Amelia at downs.amelia@gmail.com
 
 ## Past Questions
-**July 8th: Intro To Whiteboarding
+**July 8th: Intro To Whiteboarding**
 - [Word Cloud](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/word-cloud.md)
 - [Valid Parens](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_valid_parens.md)
 - [Palendrome](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_palindrome.md)
