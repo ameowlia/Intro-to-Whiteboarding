@@ -7,6 +7,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 - 01/07/15 Danielle: [Powerpoint](https://docs.google.com/presentation/d/1cSM01KiR6BrNnwIiODO6p3R32MspFiNHppCYOsoKAy4/edit#slide=id.p)
 - 02/25/15 Neil: [Powerpoint](https://docs.google.com/presentation/d/1QTTZ1XigWEEL4T0xVSNI0QcmFcETUTQpOVPUYcxTt9k/edit?usp=sharing)
 - 05/20/15 Cari: [Powerpoint](https://docs.google.com/presentation/d/1WfWaBmG0t-1EeY57-0MTYWaaXMPG1oegB6EZKBk_Vvs/edit?usp=sharing)
+- 07/08/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1puiT17XyoZg5YeFZ48xpot5ofp0THwkmxMK3nbDCTgk/edit?usp=sharing)
 
 **Week 2: Stacks and Queues**
 - 01/14/15 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1IXc1fcIdf2kN4zckkPuwac7QiUG6owzotFuFmA7_dac/edit?usp=sharing)
