@@ -23,7 +23,7 @@ June 24 | Trees | Charles
 July 1 | HACKATHON | -
 July 8 | Intro to Whiteboarding | Amelia
 July 15 | Stacks & Queues | John
-July 22 | Recursion | -
+July 22 | Recursion | Patrick
 July 29 | Big O | -
 
 
