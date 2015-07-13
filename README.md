@@ -17,14 +17,13 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 Date | Topic | Alum Lead
  --- | --- | ---
-June 10 | Big O | John
-June 17 | Linked Lists | Amadou
-June 24 | Trees | Charles
-July 1 | HACKATHON | -
 July 8 | Intro to Whiteboarding | Amelia
 July 15 | Stacks & Queues | John
 July 22 | Recursion | Patrick
 July 29 | Big O | -
+Aug 5 | Linked Lists | -
+Aug 12 | Trees | -
+Aug 19 | Intro to Whiteboarding | -
 
 
 ## Resources
