@@ -22,7 +22,7 @@ LinkedList = Struct.new(:head) do
   # to make modifications at an index, you really want the node before it.
   def search_index(replace_index)
     current_index = 0
-    each do |node| 
+    each do |node|
       return node if current_index == (replace_index-1)
       current_index += 1
     end
@@ -41,7 +41,13 @@ LinkedList = Struct.new(:head) do
   end
 
   def add_at_index(node, index)
-    search_index(index).next = Node.new(node, search_index(index+1))
+    raise "Please use a valid index number, the list currently contains #{length_of_list} elements" if index < 0 || index >= length_of_list 
+
+    if index == 0
+      replace_head(Node.new(node, search_index(index+1)))
+    else
+      search_index(index).next = Node.new(node, search_index(index+1))
+    end
   end
 
   def remove_at_index(index)
