@@ -1,14 +1,32 @@
 # I believe time complexity: O(n), space complexity: O(1)
 # There are no nested loops. Min is a loop, but it's not nested.
-# None of the variables grow.
+# The variables are constant.
 
-def maximum_profit(stock_prices)
-  min_price = [stock_prices.index(stock_prices.min), stock_prices.min]
-  max_profit = 0
-  stock_prices.each_with_index do |price, index|
-    if index > min_price[0]
-      potential_profit = price - min_price[1]
-      max_profit = potential_profit if potential_profit > max_profit
+class Stocks
+  attr_reader :possible_prices, :min_value, :min_index, :current_price, :max_profit
+
+  def initialize(args)
+    @possible_prices = args[:possible_prices]
+    @max_profit = 0
+    @current_price = 0
+    @min_value = possible_prices.min
+    @min_index = possible_prices.index(min_value)
+  end
+
+  def potential_profit
+    current_price - min_value
+  end
+
+  def more_profitable?
+    potential_profit > max_profit
+  end
+
+  def find_most_profitable
+    possible_prices.each_with_index do |price, index|
+      if index > min_index
+        @current_price = price
+        @max_profit = potential_profit if more_profitable?
+      end
     end
   end
   max_profit
