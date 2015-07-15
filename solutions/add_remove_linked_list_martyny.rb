@@ -9,6 +9,12 @@ LinkedList = Struct.new(:head) do
     end   
   end
 
+  def length_of_list
+    length = 0
+    each { |node| length += 1 }
+    length
+  end
+
   def search_value(term)
     each {|node| return node if node.value == term}
   end
