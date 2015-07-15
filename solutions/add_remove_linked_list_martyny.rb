@@ -15,10 +15,6 @@ LinkedList = Struct.new(:head) do
     length
   end
 
-  def search_value(term)
-    each {|node| return node if node.value == term}
-  end
-
   # to make modifications at an index, you really want the node before it.
   def search_index(replace_index)
     current_index = 0
@@ -53,8 +49,14 @@ LinkedList = Struct.new(:head) do
   def remove_at_index(index)
     search_index(index).next = search_index(index+2)
   end
+
+  # Method for testing
+  def search_value(term)
+    each {|node| return node if node.value == term}
+  end
 end
 
+# TESTS
 node4 = Node.new('Four', nil)
 node3 = Node.new('Three', node4)
 node2 = Node.new('Two', node3)
