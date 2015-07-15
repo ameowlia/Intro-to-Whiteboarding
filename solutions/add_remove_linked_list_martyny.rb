@@ -65,23 +65,28 @@ node1 = Node.new('One', node2)
 
 
 list = LinkedList.new(node1)
-puts list
-puts "Linked List"
-list.each {|node| puts node.value}
+# puts list
+# puts "Linked List"
+# list.each {|node| puts node.value}
 
 puts "Linked List New Head"
 list.replace_head(node2)
-list.each {|node| puts node.value}
+p list.search_value(node2.value) == node2
+# list.each {|node| puts node.value}
 
 puts "Linked List New Tail"
 list.add_tail('five')
-list.each {|node| puts node.value}
+p list.search_value('five') == list.search_last
+# list.each {|node| puts node.value}
 
 puts "Linked List Add At Index"
 list.add_at_index('beepboop', 2)
-list.each {|node| puts node.value}
+p list.search_value('beepboop') == list.search_index(2).next
+# list.each {|node| puts node.value}
 
 puts "Linked List Remove At Index"
+node_value_to_delete = list.search_index(2).next.value
 list.remove_at_index(2)
-list.each {|node| puts node.value}
+p list.search_value(node_value_to_delete) == nil
+# list.each {|node| puts node.value}
 
