@@ -37,8 +37,22 @@ random2 = [44, 48, 50, 46, 43, 47, 41, 45, 40, 42, 49]
 same = Array.new(20, 80)
 lose_money = (5..20).to_a.reverse
 
-p "random prices: #{random}"
-p "max profit from random prices: #{maximum_profit(random)}"
-# TESTS for if prices stay the same or go down
-p maximum_profit(same) == 0
-p maximum_profit(lose_money) == 0
+# stocks staying the same
+stocks_same = Stocks.new(possible_prices: same)
+stocks_same.find_most_profitable
+p stocks_same.max_profit == 0
+
+# stocks declining
+stocks_lose_money = Stocks.new(possible_prices: lose_money)
+stocks_lose_money.find_most_profitable
+p stocks_lose_money.max_profit == 0
+
+# random stock prices 1
+stocks_random = Stocks.new(possible_prices: random)
+stocks_random.find_most_profitable
+p stocks_random.max_profit == 7
+
+# random stock prices 2
+stocks_random = Stocks.new(possible_prices: random2)
+stocks_random.find_most_profitable
+p stocks_random.max_profit == 9
