@@ -18,3 +18,4 @@ What is the time and space complexity of your solution?
 
 ###Solutions
 [Amelia's Solution, Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/apple_stock_amelia.rb)
+[Teresa Martyny's Class Solution with tests, Ruby](https://github.com/tmartyny/Intro-to-Whiteboarding-DBC/blob/master/solutions/apple_stocks_martyny.rb)
