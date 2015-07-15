@@ -29,7 +29,6 @@ class Stocks
       end
     end
   end
-  max_profit
 end
 
 # TESTING
