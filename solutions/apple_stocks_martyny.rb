@@ -32,7 +32,8 @@ class Stocks
 end
 
 # TESTING
-random = (40..70).to_a.shuffle
+random = [42, 45, 44, 43, 49, 41, 46, 48, 50, 40, 47]
+random2 = [44, 48, 50, 46, 43, 47, 41, 45, 40, 42, 49]
 same = Array.new(20, 80)
 lose_money = (5..20).to_a.reverse
 
