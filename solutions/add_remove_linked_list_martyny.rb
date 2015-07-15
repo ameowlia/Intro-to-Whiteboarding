@@ -28,6 +28,7 @@ LinkedList = Struct.new(:head) do
     each {|node| return node if node.next == nil}
   end
 
+  # this can be used to add a new head node or make an existing head the new head
   def replace_head(node)
     self.head = node
   end
