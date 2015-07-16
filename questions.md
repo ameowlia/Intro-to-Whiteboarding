@@ -6,6 +6,12 @@
 - questions? ask Amelia at downs.amelia@gmail.com
 
 ## Past Questions
+**July 15: Stacks & Queues**
+- [Priority Queue](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/priorityqueue.md)
+(Next 2 from prior lectures)
+- [1 Stack, 2 Queues](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/stack_with_two_queues.md)
+- [Matching Parens / Brackets](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/matching-parens.md)
+
 **July 8th: Intro To Whiteboarding**
 - [Most Occurring Word](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/most_occurring_word.md)
 - [Valid Parens](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/recursive_valid_parens.md)
