@@ -9,6 +9,7 @@ Index 0 is the highest priority and are processed first.  Create a class cal
 Note: .in method arguments are: ( units, priority ) 
 ```
 warehouse.in(5, 4)
-warehouse.in(1, 3  warehouse.in(3, 2)
+warehouse.in(1, 3)
+warehouse.in(3, 2)
  warehouse.process # 3, 2 is processed first though its the last in!
 ```
