@@ -20,7 +20,7 @@ Date | Topic | Alum Lead
 July 8 | Intro to Whiteboarding | Amelia
 July 15 | Stacks & Queues | John
 July 22 | Recursion | Patrick
-July 29 | Big O | -
+July 29 | Big O | John (if nobody else wants to)
 Aug 5 | Linked Lists | -
 Aug 12 | Trees | -
 Aug 19 | Intro to Whiteboarding | -
