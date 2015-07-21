@@ -38,7 +38,7 @@ distribution_b = [3,[1,2,4],[2,3,8],[1,1,5]]
 first_round = Distributor.new(distributions: distribution_a)
 p first_round.calculate_average == 160
 
-second_round = Distributor.new(distributions: distribution_b)
-p second_round.calculate_average == 9
+# second_round = Distributor.new(distributions: distribution_b)
+# p second_round.calculate_average == 9
 
 
