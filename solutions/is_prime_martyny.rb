@@ -1,4 +1,3 @@
-
 def is_prime?(num)
   return false if num < 2
   return true if num < 4
