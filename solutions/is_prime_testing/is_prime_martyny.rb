@@ -14,10 +14,12 @@ class PrimeNum
   end
   def remaining_factors_prime?
     for factor in 2..highest_possible_factor
-      false if number%factor == 0 
+      return false if number%factor == 0 
     end
+    true
   end
   def is_prime?
+    return false if !number.is_a? Integer
     return false if less_than_two?
     return true if less_than_four?
     return false if number.even? 
