@@ -1,8 +1,10 @@
 class PrimeNum
-  attr_reader :number, :highest_possible_factor
+  attr_reader :number
   def initialize(number)
     @number = number
-    @highest_possible_factor = Math.sqrt(number)
+  end
+  def highest_possible_factor
+    Math.sqrt(number)
   end
   def less_than_two?
     number < 2
