@@ -2,7 +2,7 @@
 # output: 160
 
 class Distributor
-  attr_reader :distributions, :total_jars
+  attr_reader :distributions, :total_jars, :total_candies
 
   def initialize(args)
     @distributions = args[:distributions][1..-1]
