@@ -3,6 +3,7 @@ class PrimeNum
   def initialize(args)
     @number = args[:number]
   end
+  # if they are larger than the sqrt of number, they are redundant
   def highest_possible_factor
     Math.sqrt(number)
   end
@@ -23,7 +24,6 @@ class PrimeNum
     return false if less_than_two?
     return true if less_than_four?
     return false if number.even? 
-    # if they are larger than the sqrt of number, they are redundant
     return false if !remaining_factors_prime?
     true
   end
