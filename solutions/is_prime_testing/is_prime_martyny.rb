@@ -1,7 +1,7 @@
 class PrimeNum
   attr_reader :number
-  def initialize(number)
-    @number = number
+  def initialize(args)
+    @number = args[:number]
   end
   def highest_possible_factor
     Math.sqrt(number)
@@ -29,15 +29,15 @@ class PrimeNum
   end
 end
 
-test2 = PrimeNum.new(2)
+test2 = PrimeNum.new(number: 2)
 p test2.is_prime? == true
-test3 = PrimeNum.new(6)
+test3 = PrimeNum.new(number: 6)
 p test3.is_prime? == false
-test4 = PrimeNum.new(541)
+test4 = PrimeNum.new(number: 541)
 p test4.is_prime? == true #big prime
-test5 = PrimeNum.new(461)
+test5 = PrimeNum.new(number: 461)
 p test5.is_prime? == true #big prime
-test6 = PrimeNum.new(542)
+test6 = PrimeNum.new(number: 542)
 p test6.is_prime? == false
 
 
