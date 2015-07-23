@@ -20,11 +20,11 @@ class PrimeNum
     true
   end
   def is_prime?
-    return false if !number.is_a? Integer
+    return false unless number.is_a? Integer
     return false if less_than_two?
     return true if less_than_four?
     return false if number.even? 
-    return false if !remaining_factors_prime?
+    return false unless remaining_factors_prime?
     true
   end
 end
