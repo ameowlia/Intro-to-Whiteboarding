@@ -21,7 +21,7 @@ July 8 | Intro to Whiteboarding | Amelia
 July 15 | Stacks & Queues | John
 July 22 | Recursion | Patrick
 July 29 | Big O | Jack
-Aug 5 | Linked Lists | -
+Aug 5 | Linked Lists | Phil & Daniela
 Aug 12 | Trees | -
 Aug 19 | Intro to Whiteboarding | -
 
