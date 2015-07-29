@@ -17,12 +17,13 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 **Week 3: Recursion**
 - 01/21/15 Patrick: [Powerpoint](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0) -  [Video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
 - 04/2//15 Andy: [Powerpoint](https://github.com/acarl005/Recursion-Talk/tree/master/recursion%20lecture)
-- 06/03/15 Jack: [Powerpoint](https://docs.google.com/presentation/d/1XJuMO1oeUkTgXIxDobO_T5tHnwsgXCLxDbX_CcFIyA0/edit?usp=sharing)
+- 06/03/15 Jack: [Google Slide](https://docs.google.com/presentation/d/1XJuMO1oeUkTgXIxDobO_T5tHnwsgXCLxDbX_CcFIyA0/edit?usp=sharing)
 
 **Week 4: Big O**
 - 12/10/14 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing)
 - 01/28/15 John: [Powerpoint](https://www.dropbox.com/s/in7y5y4u0v0tjym/john_big_o.pptx?dl=0)
 - 06/03/15 John: [Powerpoint](https://www.dropbox.com/s/y97zsyfu70tbb6n/john-bigo-061015.pptx?dl=0)
+- 07/29/15 Jack: [Google Slide](https://docs.google.com/presentation/d/1a8ND809RIoCPsY2Dfpgx3u1taSgdJgvwavRtxb24G2I/edit?usp=sharing)
 
 **Week 5: Linked Lists**
 - 02/04/15 John: [Powerpoint](https://www.dropbox.com/s/8pk9khuru83b3iv/lists.pdf?dl=0) - [Video](https://talks.devbootcamp.com/whiteboarding-and-algorithms-night-linked-lists-4-slash-4-slash-15)
