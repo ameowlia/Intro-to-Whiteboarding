@@ -18,6 +18,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 - 01/21/15 Patrick: [Powerpoint](https://www.dropbox.com/s/sz5kkyxt5rj4ann/Recursion%20Keynote.zip?dl=0) -  [Video](https://www.youtube.com/watch?v=VhlRKInWjkI&feature=youtu.be&t=59s)
 - 04/2//15 Andy: [Powerpoint](https://github.com/acarl005/Recursion-Talk/tree/master/recursion%20lecture)
 - 06/03/15 Jack: [Google Slide](https://docs.google.com/presentation/d/1XJuMO1oeUkTgXIxDobO_T5tHnwsgXCLxDbX_CcFIyA0/edit?usp=sharing)
+- 07/22/15 Patrick(ALLCAPZ): [Powerpoint](https://docs.google.com/presentation/d/1An5IfLz3fy9q76GIO9wkX8Au8tWeayR1AoMf0G223ko/edit?usp=sharing)
 
 **Week 4: Big O**
 - 12/10/14 Amelia: [Powerpoint](https://docs.google.com/presentation/d/1TmRtZTShtrOcRsdRdfpXXY671YhfhzjwdUc9AuPBIY4/edit?usp=sharing)

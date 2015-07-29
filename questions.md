@@ -6,6 +6,12 @@
 - questions? ask Amelia at downs.amelia@gmail.com
 
 ## Past Questions
+**July 22: Recursion**
+(Questions/solutions from prior lectures)
+- [Factorial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/factorial.md)
+- [Tower of Hanoi](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/tower-of-hanoi.md)
+- [Power Set](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/power-set.md)
+
 **July 15: Stacks & Queues**
 - [Priority Queue](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/priorityqueue.md)
 (Next 2 from prior lectures)
