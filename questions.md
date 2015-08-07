@@ -6,6 +6,12 @@
 - questions? ask Amelia at downs.amelia@gmail.com
 
 ## Past Questions
+
+**July 29: Big O notation**
+- [Missing number](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_missing_number.md)
+- [Majority Element](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_majority_element.md)
+- [Weighted random generator](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_weighted_random_generator.md)
+
 **July 22: Recursion**
 (Questions/solutions from prior lectures)
 - [Factorial](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/factorial.md)
