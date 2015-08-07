@@ -17,12 +17,13 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 Date | Topic | Alum Lead
  --- | --- | ---
-July 29 | Big O | Jack
-Aug 5 | Linked Lists | Phil & Daniela
 Aug 12 | Trees | Amadou
 Aug 19 | Intro to Whiteboarding | Amelia
 Aug 26 | Stacks & Queues | John
-Sept 2 | Recursion | - 
+Sept 2 | Recursion | Jason 
+Sept 9 | Big O | -
+Sept 16 | Linked Lists | -
+Sept 23 | Trees | -
 
 
 ## Resources
