@@ -7,6 +7,11 @@
 
 ## Past Questions
 
+**August 19th: Intro to Whiteboarding**
+- [The Lonely Number](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/the_lonely_number.md)
+- [Pyramid Array]
+- [See Saw Array](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/see_saw.md)
+
 **July 29: Big O notation**
 - [Missing number](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_missing_number.md)
 - [Majority Element](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_majority_element.md)
