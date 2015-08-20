@@ -9,7 +9,7 @@
 
 **August 19th: Intro to Whiteboarding**
 - [The Lonely Number](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/the_lonely_number.md)
-- [Pyramid Array]
+- [Pyramid Array](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/pyramid_array.md)
 - [See Saw Array](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/see_saw.md)
 
 **July 29: Big O notation**
