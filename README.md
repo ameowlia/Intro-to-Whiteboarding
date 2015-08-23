@@ -20,7 +20,7 @@ Date | Topic | Alum Lead
 Aug 12 | Trees | Amadou
 Aug 19 | Intro to Whiteboarding | Amelia
 Aug 26 | Stacks & Queues | John
-Sept 2 | Recursion | -
+Sept 2 | Recursion | - Amadou
 Sept 9 | Big O | -
 Sept 16 | Linked Lists | -
 Sept 23 | Trees | -
@@ -51,10 +51,10 @@ Sept 23 | Trees | -
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
+Patrick Reynolds: patrickscottreynolds@gmail.com
+Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
