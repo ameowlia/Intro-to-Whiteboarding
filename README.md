@@ -20,7 +20,7 @@ Date | Topic | Alum Lead
 Aug 12 | Trees | Amadou
 Aug 19 | Intro to Whiteboarding | Amelia
 Aug 26 | Stacks & Queues | John
-Sept 2 | Recursion | - Amadou
+Sept 2 | Recursion | Amadou
 Sept 9 | Big O | -
 Sept 16 | Linked Lists | -
 Sept 23 | Trees | -
