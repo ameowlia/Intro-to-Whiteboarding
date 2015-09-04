@@ -22,3 +22,4 @@ Implement a Queue class using two stacks. You may assume you have a stack class 
 ###Solutions
 - [Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-amelia.rb)  
 - [Patrick's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-patrick.js)
+- [Hugh's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/stacks_as_queue.rb)
