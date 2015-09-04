@@ -11,7 +11,7 @@
 # Initial solution. Time: O(n^2), Space O(1)
 def seesaw?(arr)
   left_sum = 0
-  for i in 0..arr.size-1 do                         #O(n)
+  arr.each_index do |i|                             #O(n)
     if i > 0
       left_sum = arr[0...i].reduce(:+)              #O(n)
     end
@@ -32,7 +32,7 @@ def seesaw2?(arr)
   left_sum = 0
   right_sum = arr.size > 1 ? arr[1..-1].reduce(:+) : 0
 
-  for i in 0..arr.size-1 do      #O(n)
+  arr.each_index do |i|                             #O(n)
     return true if left_sum == right_sum
     left_sum += arr[i]
     i < arr.size-1 ? right_sum -= arr[i+1] : right_sum = 0
