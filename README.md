@@ -24,7 +24,7 @@ Date | Topic | Alum Lead
 Aug 19 | Intro to Whiteboarding | Amelia
 Aug 26 | Stacks & Queues | John
 Sept 2 | Recursion | Julia & Kevin
-Sept 9 | Big O | -
+Sept 9 | Big O | Jack
 Sept 16 | Linked Lists | John (I kinda wanted to do LL's again)
 Sept 23 | Trees | -
 
