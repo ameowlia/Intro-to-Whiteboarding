@@ -25,6 +25,7 @@ Not all of them have links yet, because they have not all been made yet. Patienc
 - 01/28/15 John: [Powerpoint](https://www.dropbox.com/s/in7y5y4u0v0tjym/john_big_o.pptx?dl=0)
 - 06/03/15 John: [Powerpoint](https://www.dropbox.com/s/y97zsyfu70tbb6n/john-bigo-061015.pptx?dl=0)
 - 07/29/15 Jack: [Google Slide](https://docs.google.com/presentation/d/1a8ND809RIoCPsY2Dfpgx3u1taSgdJgvwavRtxb24G2I/edit?usp=sharing)
+- 09/09/15 Jack: [Google Slide](https://docs.google.com/presentation/d/1Q0myflu9sL0KGnZNyAyL7Nxv8caYgya9O38Nj3GDt4Q/edit?usp=sharing)
 
 **Week 5: Linked Lists**
 - 02/04/15 John: [Powerpoint](https://www.dropbox.com/s/8pk9khuru83b3iv/lists.pdf?dl=0) - [Video](https://talks.devbootcamp.com/whiteboarding-and-algorithms-night-linked-lists-4-slash-4-slash-15)
