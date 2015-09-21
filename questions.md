@@ -7,6 +7,11 @@
 
 ## Past Questions
 
+**September 9: Big O notation**
+- [Top N elements](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_top_N_elements.md)
+- [Test getElementById()](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_test_getElementById.md)
+- [Friends you may know](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/bigO_friends_you_may_know.md)
+
 **August 19th: Intro to Whiteboarding**
 - [The Lonely Number](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/the_lonely_number.md)
 - [Pyramid Array](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions/pyramid_array.md)
