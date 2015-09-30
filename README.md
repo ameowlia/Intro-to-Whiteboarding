@@ -22,7 +22,7 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 Date | Topic | Alum Lead
  --- | --- | ---
 Sept 30 | HAPPY BRIRTHDAY WHITEBOARDING WEDNESDAY: Intro to Whiteboarding | Amelia
-Oct 7 | Stacks & Queues | -
+Oct 7 | Stacks & Queues | Andrew Patterson
 Oct 14 | Recursion | -
 Oct 21 | Big O | -
 Oct 28 | Linked Lists | -
