@@ -44,6 +44,7 @@ Nov 4 | Trees |-
 - [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
 - [Coursera: Algorithms, Part I from Princeton](https://www.coursera.org/course/algs4partI)
 - [Coursera: Algorithms: Design and Analysis, Part 1 from Stanford](https://www.coursera.org/course/algo)
+- [Andy's answer to: Why tech interview become hard?](http://qr.ae/RoLQfu)
 
 ## How You Can Contribute
 
@@ -54,10 +55,10 @@ Nov 4 | Trees |-
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
+Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)
+John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)
+Patrick Reynolds: patrickscottreynolds@gmail.com
+Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
