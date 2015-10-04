@@ -37,8 +37,6 @@ Nov 4 | Trees |-
 
 **External**
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Intro to Recursion](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf)
-- [Intro to Recursion cont.](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf)
 - [Interview Cake](https://www.interviewcake.com/)
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
 - [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
