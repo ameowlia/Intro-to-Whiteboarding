@@ -44,6 +44,7 @@ Nov 4 | Trees |-
 - [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
 - [Coursera: Algorithms, Part I from Princeton](https://www.coursera.org/course/algs4partI)
 - [Coursera: Algorithms: Design and Analysis, Part 1 from Stanford](https://www.coursera.org/course/algo)
+- [Andy's answer to: Why tech interview become hard?](http://qr.ae/RoLQfu)
 
 ## How You Can Contribute
 
