@@ -51,8 +51,6 @@ Nov 4 | Trees |-
 
 Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
 John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
