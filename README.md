@@ -1,8 +1,4 @@
 # Intro to Algorithms and Whiteboarding
-
-###Algorithms Competition: September 12th!
-[Sign up](http://www.eventbrite.com/e/algorithm-competition-tickets-18183793215) to put your algorithm skills to good use! Your team will have two hours to successfully complete as many algorithm problems as possible. [Get your ticket now!](http://www.eventbrite.com/e/algorithm-competition-tickets-18183793215)
-
 #### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
 - [All Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
 - [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
