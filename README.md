@@ -20,7 +20,7 @@ Date | Topic | Alum Lead
 Sept 30 | HAPPY BRIRTHDAY WHITEBOARDING WEDNESDAY: Intro to Whiteboarding | Amelia
 Oct 7 | Stacks & Queues | Andrew Patterson
 Oct 14 | Recursion | -
-Oct 21 | Big O | -
+Oct 21 | Big O | - John
 Oct 28 | Linked Lists | -
 Nov 4 | Trees |-
 
