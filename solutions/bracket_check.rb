@@ -58,11 +58,6 @@ def left_bracket?(char)
   char == '(' || char == '{' ? true : false
 end
 
-def mis_matched_brackets(char, current_bracket)
-  (char == ')' && current_bracket != '(') ||
-  (char == '}' && current_bracket != '{' ) ? true : false
-end
-
 # Driver code ====================================
 
 p bracket_check?('(let* ((var1 10)
