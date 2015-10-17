@@ -33,22 +33,34 @@ class Stack
   end
 end
 
-
 # O(n)
 def bracket_check?(string)
   s = Stack.new
 
   string.each_char do |char|
-    return false if s.empty? && %w|) }|.include?(char)   #handle edge case where close bracket is first
+    return false if s.empty? && right_bracket?(char)  #handle edge case where close bracket is first
 
-    s.push(char) if char == '(' || char == '{'
+    s.push(char) if left_bracket?(char)
 
-    if char == ')' || char == '}'
+    if right_bracket?(char)
       current_bracket = s.pop
-      return false if (char == ')' && current_bracket != '(') || (char == '}' && current_bracket != '{' )
+      return false if right_bracket?(current_bracket)
     end
   end
   s.empty? # if stack is empty we have matched brackets
+end
+
+def right_bracket?(char)
+  char == ')' || char == '}' ? true : false
+end
+
+def left_bracket?(char)
+  char == '(' || char == '{' ? true : false
+end
+
+def mis_matched_brackets(char, current_bracket)
+  (char == ')' && current_bracket != '(') ||
+  (char == '}' && current_bracket != '{' ) ? true : false
 end
 
 # Driver code ====================================
