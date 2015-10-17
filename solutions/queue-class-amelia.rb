@@ -20,7 +20,6 @@ class Queue
 	end
 
 	def is_empty?
-		#check to make sure this works.
 		first == nil 
 	end 
 end 

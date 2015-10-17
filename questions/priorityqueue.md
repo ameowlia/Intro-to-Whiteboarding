@@ -4,7 +4,7 @@ You have a new job at a hot startup called Awesome Delivery Service. They’re a
 @priority_queue = [ Queue, Queue, …, …, … ]
 ```
 
-Index 0 is the highest priority and are processed first.  Create a class called “Warehouse” that take in orders with a priority and then processes an order with  the highest priority. The #in method takes 2 arguments, number of units and a priority.
+Index 0 is the highest priority and are processed first.   Create a class called “Warehouse” that take in orders with a priority and then processes an order with the highest priority. The #in method takes 2 arguments, number of units and a priority.
 
 e.g.
 ```
@@ -16,7 +16,7 @@ Note: .in method arguments are: ( units, priority ) 
 warehouse.in(5, 4)
 warehouse.in(1, 3)
 warehouse.in(3, 2)
- warehouse.process # 3, 2 is processed first though its the last in!
+ warehouse.process # 3, 2 is processed first though it's the last in! ("Last in, first out")
 ```
 ###Solutions
 - [Hugh's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/process_orders.rb)

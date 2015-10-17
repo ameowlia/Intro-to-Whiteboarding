@@ -17,13 +17,12 @@ A weekly workshop created to help DBC alumi practice their technical interview s
 
 Date | Topic | Alum Lead
  --- | --- | ---
-Aug 12 | Trees | Amadou
-Aug 19 | Intro to Whiteboarding | Amelia
-Aug 26 | Stacks & Queues | John
-Sept 2 | Recursion | Julia & Friend
-Sept 9 | Big O | -
-Sept 16 | Linked Lists | -
-Sept 23 | Trees | -
+Sept 30 | HAPPY BRIRTHDAY WHITEBOARDING WEDNESDAY: Intro to Whiteboarding | Amelia
+Oct 7 | Stacks & Queues | Andrew Patterson
+Oct 14 | Recursion | Jack
+Oct 21 | Big O | - John
+Oct 28 | Linked Lists | -
+Nov 4 | Trees |-
 
 
 ## Resources
@@ -34,13 +33,12 @@ Sept 23 | Trees | -
 
 **External**
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Intro to Recursion](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/05-intro-to-recursion.pdf)
-- [Intro to Recursion cont.](http://cs.stanford.edu/people/eroberts/courses/cs106b/chapters/06-recursive-procedures.pdf)
 - [Interview Cake](https://www.interviewcake.com/)
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
 - [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
 - [Coursera: Algorithms, Part I from Princeton](https://www.coursera.org/course/algs4partI)
 - [Coursera: Algorithms: Design and Analysis, Part 1 from Stanford](https://www.coursera.org/course/algo)
+- [Andy's answer to: Why have tech interview become hard?](http://qr.ae/RoLQfu)
 
 ## How You Can Contribute
 
@@ -53,8 +51,6 @@ Sept 23 | Trees | -
 
 Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
 John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-Patrick Reynolds: patrickscottreynolds@gmail.com  
-Patrick Menzel: pmmenzel@gmail.com or [@ALLCAPZ](https://twitter.com/ALLCAPZ)  
 
 
 [Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
