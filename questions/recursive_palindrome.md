@@ -13,3 +13,4 @@ is_palindrome?("No X in Nixon")    # => True
 ###Solutions
 - Put links to your solutions here :)
 - [Amelia's recursive ruby solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_palindrome_recursive_amelia.rb?ts=2)
+- [Hugh's recursive solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_palindrome.rb)
