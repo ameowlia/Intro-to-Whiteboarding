@@ -10,3 +10,4 @@ Returns true. Why?
 - [Neil's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/see_saw_neil.rb)
 - [Connor's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/seesaw-connor.rb)
 - [Hugh's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/p3_seesaw_array.rb)
+- [Sarah's Solution] (https://github.com/sarahkwak/interview_prep/blob/master/algorithm/seesaw.rb)
