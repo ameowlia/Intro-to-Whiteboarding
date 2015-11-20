@@ -15,3 +15,5 @@ Please write two different solutions and discuss Big(O) in time and space
 
 ###Solutions
 Put links to your solutions here :)
+
+[Sarah's Solution] (https://github.com/sarahkwak/interview_prep/blob/master/algorithm/majority_element.rb)
