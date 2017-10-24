@@ -5,3 +5,4 @@ const isPrime = num => {
 
 isPrime(2); //=> true
 isPrime(6); //=> false
+ß;
