@@ -14,5 +14,6 @@ are_anagrams?(“dbc”, “pizzarules”) #=> false
 
 ###Solutions
 add a link to your solution here :)
-https://github.com/wardch/Algorithms/blob/master/are_anagrams.rb
-https://github.com/kpedersen00/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_anagram.rb
+- https://github.com/wardch/Algorithms/blob/master/are_anagrams.rb
+- https://github.com/kpedersen00/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_anagram.rb
+- https://github.com/michelledai2020/Intro-to-Whiteboarding/blob/master/solutions/is_anagram.js
